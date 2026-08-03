@@ -1,0 +1,184 @@
+{
+  "minimum_score": 35,
+  "remotive": {
+    "enabled": true,
+    "queries": [
+      "power bi",
+      "dashboard",
+      "data analyst",
+      "business intelligence",
+      "data visualization",
+      "analytics engineer",
+      "data engineer",
+      "monitoring evaluation",
+      "consultant dashboard",
+      "web application consultant",
+      "communications consultant"
+    ]
+  },
+  "remoteok": {
+    "enabled": true,
+    "keywords": [
+      "power bi",
+      "dashboard",
+      "business intelligence",
+      "data analyst",
+      "data scientist",
+      "sql",
+      "python",
+      "analytics"
+    ]
+  },
+  "jobicy": {
+    "enabled": true,
+    "requests": [
+      { "industry": "data-science", "count": 50 },
+      { "tag": "power bi", "count": 30 },
+      { "tag": "dashboard", "count": 30 },
+      { "tag": "data analyst", "count": 30 },
+      { "tag": "business intelligence", "count": 30 },
+      { "tag": "communications consultant", "count": 30 },
+      { "tag": "web developer consultant", "count": 30 },
+      { "tag": "application consultant", "count": 30 }
+    ]
+  },
+  "arbeitnow": {
+    "enabled": true,
+    "pages": 3,
+    "keywords": [
+      "power bi",
+      "dashboard",
+      "business intelligence",
+      "data analyst",
+      "data scientist",
+      "data engineer",
+      "analytics engineer",
+      "tableau",
+      "looker",
+      "communications",
+      "web application",
+      "consultant"
+    ]
+  },
+  "himalayas": {
+    "enabled": true,
+    "pages_per_query": 3,
+    "queries": [
+      "power bi",
+      "dashboard",
+      "data analyst",
+      "data scientist",
+      "business intelligence",
+      "monitoring evaluation",
+      "research analyst",
+      "communications consultant",
+      "web application consultant",
+      "api developer"
+    ]
+  },
+  "themuse": {
+    "enabled": true,
+    "requests": [
+      { "category": "Data and Analytics", "pages": 3 },
+      { "category": "Software Engineering", "location": "Remote", "pages": 2 },
+      { "category": "Marketing", "location": "Remote", "pages": 2 }
+    ]
+  },
+  "rss_feeds": {
+    "enabled": true,
+    "keywords": [
+      "power bi",
+      "dashboard",
+      "business intelligence",
+      "data analyst",
+      "data scientist",
+      "analytics",
+      "monitoring",
+      "evaluation",
+      "research",
+      "api",
+      "web application",
+      "communications",
+      "consultant",
+      "contract"
+    ],
+    "feeds": [
+      { "name": "We Work Remotely", "url": "https://weworkremotely.com/remote-jobs.rss", "type": "job" },
+      { "name": "We Work Remotely", "url": "https://weworkremotely.com/categories/remote-programming-jobs.rss", "type": "job" },
+      { "name": "We Work Remotely", "url": "https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss", "type": "job" },
+      { "name": "We Work Remotely", "url": "https://weworkremotely.com/categories/remote-front-end-programming-jobs.rss", "type": "job" },
+      { "name": "We Work Remotely", "url": "https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss", "type": "job" },
+      { "name": "We Work Remotely", "url": "https://weworkremotely.com/categories/remote-product-jobs.rss", "type": "job" },
+      { "name": "We Work Remotely", "url": "https://weworkremotely.com/categories/remote-sales-and-marketing-jobs.rss", "type": "job" },
+      { "name": "We Work Remotely", "url": "https://weworkremotely.com/categories/remote-design-jobs.rss", "type": "job" },
+      { "name": "Himalayas RSS", "url": "https://himalayas.app/jobs/rss", "type": "job" },
+      { "name": "JobsCollider", "url": "https://jobscollider.com/remote-jobs.rss", "type": "job" }
+    ]
+  },
+  "reliefweb": {
+    "enabled": false,
+    "queries": [
+      "\"Power BI\" OR dashboard OR \"data visualization\"",
+      "\"information management\" dashboard remote",
+      "\"monitoring and evaluation\" dashboard remote"
+    ]
+  },
+  "lever": {
+    "enabled": true,
+    "companies": [
+      "remofirst",
+      "superside"
+    ]
+  },
+  "greenhouse": {
+    "enabled": false,
+    "boards": [
+      "example"
+    ]
+  },
+  "ashby": {
+    "enabled": false,
+    "boards": [
+      "example"
+    ]
+  },
+  "platform_directory": {
+    "remote_job_boards": [
+      { "name": "LinkedIn Remote Data", "url": "https://www.linkedin.com/jobs/search/?keywords=data%20analyst%20remote" },
+      { "name": "Indeed Remote Data", "url": "https://www.indeed.com/q-remote-data-analyst-jobs.html" },
+      { "name": "Wellfound Remote Data", "url": "https://wellfound.com/role/r/data-analyst" },
+      { "name": "Working Nomads Data", "url": "https://www.workingnomads.com/remote-data-analyst-jobs" },
+      { "name": "NoDesk Remote", "url": "https://nodesk.co/remote-jobs/" },
+      { "name": "FlexJobs Remote Data", "url": "https://www.flexjobs.com/search?search=data%20analyst" },
+      { "name": "Remote.co Data", "url": "https://remote.co/remote-jobs/data/" },
+      { "name": "DataAnalyst.com Remote", "url": "https://www.dataanalyst.com/jobs/remote" }
+    ],
+    "freelance_consultance": [
+      { "name": "Upwork Dashboard Consultant", "url": "https://www.upwork.com/nx/search/jobs/?q=power%20bi%20dashboard" },
+      { "name": "Upwork M&E Consultant", "url": "https://www.upwork.com/nx/search/jobs/?q=monitoring%20evaluation%20consultant" },
+      { "name": "Freelancer Dashboard", "url": "https://www.freelancer.com/jobs/?keyword=dashboard" },
+      { "name": "Contra Data Consultant", "url": "https://contra.com/search?query=data%20analyst" },
+      { "name": "Malt Power BI", "url": "https://www.malt.fr/s?q=power%20bi" },
+      { "name": "Toptal Data", "url": "https://www.toptal.com/freelance-jobs" },
+      { "name": "A.Team", "url": "https://www.a.team/" }
+    ],
+    "development_procurement": [
+      { "name": "UNGM Procurement", "url": "https://www.ungm.org/Public/Notice" },
+      { "name": "UNDP Procurement", "url": "https://procurement-notices.undp.org/" },
+      { "name": "World Bank Procurement", "url": "https://projects.worldbank.org/en/projects-operations/procurement" },
+      { "name": "DevelopmentAid Tenders", "url": "https://www.developmentaid.org/tenders" },
+      { "name": "Devex Jobs", "url": "https://www.devex.com/jobs/search" },
+      { "name": "ReliefWeb Jobs", "url": "https://reliefweb.int/jobs?list=Jobs%20%28Remote%20%2F%20Roster%20%2F%20Roving%29&view=unspecified-location" },
+      { "name": "UNICEF Jobs", "url": "https://jobs.unicef.org/" },
+      { "name": "Impactpool", "url": "https://www.impactpool.org/search" }
+    ],
+    "africa_cote_ivoire": [
+      { "name": "Emploi.ci Data", "url": "https://www.emploi.ci/recherche-jobs-cote-ivoire?f%5B0%5D=im_field_offre_metiers%3A31" },
+      { "name": "Educarriere CI", "url": "https://emploi.educarriere.ci/" },
+      { "name": "LinkedIn Cote d'Ivoire Data", "url": "https://ci.linkedin.com/jobs/data-analyst-jobs" },
+      { "name": "Jobberman Nigeria Data", "url": "https://www.jobberman.com/jobs/data-analyst" },
+      { "name": "MyJobMag Africa Data", "url": "https://www.myjobmag.com/search/jobs?q=data+analyst" },
+      { "name": "Jobberman Ghana Data", "url": "https://www.jobberman.com.gh/jobs/data-analyst" }
+    ]
+  }
+}

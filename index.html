@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gombo Opportunities</title>
+    <meta name="description" content="Veille personnelle des opportunites remote en data, BI, dashboards et suivi-evaluation." />
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <a class="brand" href="/">
+          <span class="brand-mark">GO</span>
+          <span>
+            <strong>Gombo Opportunities</strong>
+            <em>Remote data watch</em>
+          </span>
+        </a>
+
+        <nav class="status-tabs" aria-label="Statuts">
+          <button class="active" data-status="all" type="button">Tout</button>
+          <button data-status="nouveau" type="button">Nouveau</button>
+          <button data-status="a-postuler" type="button">A postuler</button>
+          <button data-status="postule" type="button">Postule</button>
+          <button data-status="ignore" type="button">Ignore</button>
+        </nav>
+
+        <nav class="track-tabs" aria-label="Familles">
+          <button class="active" data-track="all" type="button">Toutes familles</button>
+          <button data-track="emploi-data" type="button">Emplois data / M&E</button>
+          <button data-track="consultance" type="button">Consultances / appels</button>
+        </nav>
+
+        <div class="source-note">
+          <strong>Filtre actif</strong>
+          <span>Remote uniquement, separe entre emplois et consultances.</span>
+        </div>
+      </aside>
+
+      <main class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="overline">Veille quotidienne</p>
+            <h1>Opportunites data remote a surveiller</h1>
+          </div>
+          <div class="actions">
+            <button id="scanBtn" class="primary" type="button">Scanner maintenant</button>
+            <a class="button" href="./data/opportunities.json">Exporter JSON</a>
+          </div>
+        </header>
+
+        <section class="control-strip" aria-label="Filtres">
+          <label>
+            Recherche
+            <input id="searchInput" type="search" placeholder="Power BI, dashboard, Kobo, API..." />
+          </label>
+          <label>
+            Score minimum
+            <input id="scoreInput" type="range" min="0" max="100" value="35" />
+            <span id="scoreValue">35</span>
+          </label>
+          <label>
+            Domaine
+            <select id="domainSelect">
+              <option value="all">Tous les domaines</option>
+              <option value="data-bi">Data / BI / dashboards</option>
+              <option value="suivi-evaluation-etudes">Suivi-evaluation / etudes</option>
+              <option value="developpement-app">Developpement d'appli</option>
+              <option value="communication">Communication</option>
+              <option value="autres">Autres</option>
+            </select>
+          </label>
+        </section>
+
+        <section class="metrics" id="metrics" aria-label="Indicateurs"></section>
+
+        <section class="content-grid">
+          <section class="list-panel" aria-label="Liste des opportunites">
+            <div class="section-head">
+              <div>
+                <h2>Resultats</h2>
+                <p id="scanMeta">Aucun scan charge.</p>
+              </div>
+              <span id="loadingPill" class="pill hidden">Scan en cours</span>
+            </div>
+            <div id="opportunityList" class="opportunity-list"></div>
+          </section>
+
+          <aside class="detail-panel" aria-label="Details">
+            <div id="detailEmpty" class="empty-detail">
+              <h2>Selectionne une opportunite</h2>
+              <p>Tu verras ici le score, les mots-cles detectes, la source et les actions de suivi.</p>
+            </div>
+            <div id="detailContent" class="hidden"></div>
+          </aside>
+        </section>
+
+        <section class="source-directory-section">
+          <div class="section-head">
+            <div>
+              <h2>Plateformes complementaires</h2>
+              <p>Sources utiles a ouvrir directement quand l'automatisation est limitee par login, anti-bot ou API payante.</p>
+            </div>
+          </div>
+          <div id="sourceDirectory" class="source-directory"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./assets/app.js"></script>
+  </body>
+</html>
