@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:59:20+00:00",
+  "generated_at": "2026-08-03T08:49:45+00:00",
   "items": [
     {
       "title": "Manager/ Sr. Manager - BI Consulting (Life Sciences/Pharma)",
@@ -1556,6 +1556,32 @@
       "status": "nouveau"
     },
     {
+      "title": "Senior Staff Data Engineer - Platform Data and Analytics",
+      "organization": "Faire",
+      "source": "We Work Remotely",
+      "location": "Anywhere in the World",
+      "remote_type": "hybrid-remote",
+      "opportunity_type": "job",
+      "track": "emploi-data",
+      "domain": "data-bi",
+      "deadline": null,
+      "posted_at": "Mon, 03 Aug 2026 07:30:43 +0000",
+      "url": "https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics",
+      "summary": "Headquarters: Remote - US About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're using the power of tech, data, and machine learn",
+      "description": "Full-Stack Programming Headquarters: Remote - US About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe. Picture your favorite boutique in town \u2014 we help them discover the best products from around the world to sell in their stores. With the right tools and insights, we believe that we can level the playing field so businesses can grow and local communities can thrive. We\u2019re looking for smart, resourceful and passionate people to join us as we power the shop local movement. If you believe in community, come join ours. Note: This is a remote role open to candidates located in Arizona, California, Colorado, Connecticut, District of Columbia, Florida, Georgia, Idaho, Illinois, Indiana, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, Tennessee, Texas, Utah, Virginia, Washington, or Wisconsin. About this role Our Engineering organization owns the software that makes our marketplace work. The Platform group empowers teams across Faire: Product Engineering, Data Science, Product Management, Strategy, Analytics, Finance, etc. Enabling these functions to do their best work without concern about underlying infrastructure. We enable product engineering teams to build and operate software with unmatched speed and quality. We care about good engineering practices, excellent developer experience, security, testability, ease of maintenance, and scaling to serve millions of users. We value best practices to achieve excellent availability and performance. This role is for a highly experienced technical leader in the data space, whose influence spans multiple Platform and Product groups. Within the Platform group: The Data Infrastructure team builds and operates a secure, reliable, cost-efficient, opinionated platform for data ingestion, storage, compute, orchestration, and governance. The Analytics Platform team builds efficient data warehousing capabilities, foundational data assets, and tools to accelerate data-driven analytics. Its mandate is to reduce time from data to insights. The teams also own relationships with relevant technology infrastructure vendors. Additionally, this role would influence and interact with all data and analytics related functions at Faire. The product analytics engineering (PAE) function enables domain-specific AE capabilities, working closely with Data Science, Strategy & Analytics, Finance. The data science (DS) function leads modeling development and evaluation, raising effectiveness and efficiency of key product features. We\u2019re looking for: An experienced technical leader with data and analytics background to work alongside and lead / influence across multiple teams and departments. Define technology strategy, roadmaps, architecture patterns and guidance. Striking the right balance of technical leadership and hands-on development. What you\u2019ll do Plan and execute on technology projects that scale with Faire\u2019s growth; lead architecture development with a focus on data integrity, security, performance, scale, reliability, monitoring/alerting. Engage with team planning and prioritization, balancing urgent and near-term needs with long-term goals. Provide technical guidance and mentorship on the most difficult open-ended problems we face. Including cost-efficient compute and storage, ETL and ELT pipelines, data ingest and warehousing, monitoring, alerting, and cost tracking for workloads, design practices for foundational assets, data security, privacy, and governance. Qualifications Experience designing, developing, and operating data streaming, batch, ETL/ELT, orchestration, storage, compute, workflow systems at scale. Experience defining architecture patterns and building reliable, scalable data pipelines, orchestration of data movement, querying, transformation, and frameworks for analytics engineering workflows. Strong SQL and Python skills and experience. Data warehousing experience at Petabyte scale. Snowflake, Airflow, Spark experience especially valuable. Understanding of performance, capacity, cost trade-offs in data processing systems. Experience in guiding technical and product teams on such trade-offs. Experience diagnosing, mitigating, and permanently addressing data system production issues at scale. Experience rolling out patterns for workload performance and cost optimization. Experience operating in a growth stage company, with a data function consisting of multiple teams and over 60 people. Enabling teams to operate in a self-serve model. Excellent communication, leadership, and influencing skills. A bachelor's degree in Computer Science/Software Engineering or equivalent industry experience. Select technologies we use and teach : AWS, Snowflake, Airflow, Spark, Python, Kotlin. Salary Range California & New York: the pay range for this role is $276,000 to $379,500 per year. This role will also be eligible for equity and benefits. Actual base pay will be determined based on permissible factors such as transferable skills, work experience, market demands, and primary work location. The base pay range provided is subject to change and may be modified in the future. Faire uses Artificial Intelligence (AI) to screen and select applicants for this position. This job posting is for an existing vacancy. Hybrid Faire employees currently go into the office 3 days per week on Tuesdays, Thursdays, and a third flex day of their choosing (Monday, Wednesday, or Friday). Additionally, hybrid in-office roles will have the flexibility to work remotely up to 4 weeks per year. Specific Workplace and Information Technology positions may require onsite attendance 5 days per week as will be indicated in the job posting. Why you\u2019ll love working at Faire Move fast: You'll own meaningful problems that serve customers around the globe with the agency to move fast and see your results clearly. Equipped to scale: We invest in what matters, including the latest enterprise AI tools, to help you work smarter and get more out of every day. Best in class: Our team is full of sharp, kind, and generous colleagues who care about their craft and about helping you grow in yours. Real rewards. Competitive pay, equity, and comprehensive benefits designed to support your life inside and outside of work. Belonging: We're intentional about building an environment where every Faire employee has equal access to opportunities, growth, and success. Faire was founded in 2017 by a team of early product and engineering leads from Square. We\u2019re backed by some of the top investors in retail and tech including: Y Combinator, Lightspeed Venture Partners, Forerunner Ventures, Khosla Ventures, Sequoia Capital, Founders Fund, and DST Global. We have headquarters in San Francisco and Kitchener-Waterloo, and a global employee presence across offices in Toronto, London, and New York. To learn more about Faire and our customers, you can read more on our blog . Faire provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity or gender expression. Faire is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Accommodations are available throughout the recruitment process and applicants with a disability may request to be accommodated throughout the recruitment process. We will work with all applicants to accommodate their individual accessibility needs. To request reasonable accommodation, please fill out our Accommodation Request Form ( https://bit.ly/faire-form) Privacy For information about the type of personal data Faire collects from applicants, as well as your choices regarding the data collected about you, please visit Faire\u2019s Privacy Notice (https://www.faire.com/privacy) To apply: https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics",
+      "score": 71,
+      "keywords": [
+        "analytics engineer",
+        "api",
+        "data engineer",
+        "python",
+        "sql"
+      ],
+      "is_remote": true,
+      "id": 57,
+      "status": "nouveau"
+    },
+    {
       "title": "Blockchain Risk Control Research Intern",
       "organization": "Bybit",
       "source": "We Work Remotely",
@@ -1579,7 +1605,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 57,
+      "id": 58,
       "status": "nouveau"
     },
     {
@@ -1606,7 +1632,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 58,
+      "id": 59,
       "status": "nouveau"
     },
     {
@@ -1633,7 +1659,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 59,
+      "id": 60,
       "status": "nouveau"
     },
     {
@@ -1659,7 +1685,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 60,
+      "id": 61,
       "status": "nouveau"
     },
     {
@@ -1683,7 +1709,7 @@
         "power bi"
       ],
       "is_remote": true,
-      "id": 61,
+      "id": 62,
       "status": "nouveau"
     },
     {
@@ -1709,7 +1735,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 62,
+      "id": 63,
       "status": "nouveau"
     },
     {
@@ -1735,7 +1761,7 @@
         "superset"
       ],
       "is_remote": true,
-      "id": 63,
+      "id": 64,
       "status": "nouveau"
     },
     {
@@ -1760,7 +1786,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 64,
+      "id": 65,
       "status": "nouveau"
     },
     {
@@ -1785,7 +1811,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 65,
+      "id": 66,
       "status": "nouveau"
     },
     {
@@ -1810,7 +1836,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 66,
+      "id": 67,
       "status": "nouveau"
     },
     {
@@ -1835,7 +1861,7 @@
         "power bi"
       ],
       "is_remote": true,
-      "id": 67,
+      "id": 68,
       "status": "nouveau"
     },
     {
@@ -1861,7 +1887,33 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 68,
+      "id": 69,
+      "status": "nouveau"
+    },
+    {
+      "title": "Chief of Staff - Freelance, Remote",
+      "organization": "Magic",
+      "source": "Himalayas",
+      "location": "Worldwide",
+      "remote_type": "remote",
+      "opportunity_type": "Contractor",
+      "track": "consultance",
+      "domain": "communication",
+      "deadline": "2026-10-02T08:46:52+00:00",
+      "posted_at": "2026-08-03T08:46:53+00:00",
+      "url": "https://himalayas.app/companies/getmagic/jobs/chief-of-staff-freelance-remote-9794758967",
+      "summary": "About the ClientThis fast-growing consumer health and wellness brand offers clinically backed products and a premium customer experience through its e-commerce storefront and retail partners.",
+      "description": "About the ClientThis fast-growing consumer health and wellness brand offers clinically backed products and a premium customer experience through its e-commerce storefront and retail partners. The company operates in a high-velocity, founder-led environment where cross-functional coordination and speed of execution are critical. They are seeking an experienced operator to act as an extension of the founder and help the business scale with rigor and clarity. (Client kept anonymous per request.) Why does this role exist?This Chief of Staff role exists to create leverage for the founder by bringing structure, prioritization, and operational follow-through to a fast-paced, high-growth environment. The objective is to streamline executive workflows (calendar, communications), own cross-functional project execution, and improve organizational cadence so critical initiatives ship on time. Success means proactively anticipating needs, removing friction across teams, and acting as a trusted proxy for the founder to keep the business moving. The Impact you\u2019ll make Executive Rhythm and Prioritization Own and optimize the founder\u2019s calendar; protect deep-work blocks, resolve conflicts, and ensure meeting readiness Build weekly operating cadence and prep briefs so the right decisions happen at the right time Anticipate founder needs and be two steps ahead on next actions Communications and Inbox Leadership Triage and prioritize email; draft responses and manage stakeholder expectations Maintain clear, timely communications across internal/external partners Produce executive-ready updates, summaries, and decision memos Project and Cross-Functional Execution Run task boards; set deadlines, drive follow-ups, and unblock teams Track deliverables across departments; escalate risks early and propose solutions Coordinate vendor/partner workflows, including scheduling and light contract/admin support Content and Documentation Draft/polish decks, memos, customer letters, SOPs, and executive talking points Capture live meeting notes; translate into clear action items with owners and dates Maintain a clean source of truth for decisions, plans, and status Data and Light Reporting Pull basic reports; distill key data points and insights for fast executive decisions Create simple dashboards or summaries to monitor priorities and progress Identify operational bottlenecks with data and recommend improvements Skills, Knowledge and Expertise Required: Previous Chief of Staff or senior Executive Assistant (founder/CEO-facing) experience in a fast-paced, high-growth company Proven track record running cross-functional projects and owning executive operating cadence (calendar, comms, task boards) Exceptional written communication; demonstrated experience drafting decks/memos and executive-ready materials High judgment, confidentiality, and accountability under pressure; thrives in high-intensity, rapidly changing environments Strong tooling fluency with modern productivity and project systems (e.g., Google Workspace/Microsoft 365, Asana/Notion/Monday, Slack/Zoom) WFH Set-Up: Computer with at least 8GB RAM, an Intel i5 core processor/AMD Ryzen 5 Processor and up. Internet speed of at least 40MBPS Headset with an extended mic that has noise cancellation and a webcam Back-up computer and internet connection Quiet, dedicated workspace at home Your Superpowers: Hard skills: executive calendar/inbox mastery; project management and follow-through; concise executive writing; note-taking to action conversion; light reporting and synthesis Soft skills: proactive, two-steps-ahead operator; bias to action; excellent stakeholder management; calm under pressure; ruthless prioritization; ownership mindset You should apply if\u2026 You love being the force multiplier for a founder\u2014anticipating needs, removing friction, and creating clarity You thrive in startup speed and ambiguity, and you hold yourself to outcomes, not activity You are highly organized, detail-obsessed, and can switch contexts without dropping balls You communicate crisply, protect focus time, and are comfortable being the point of escalation \u201cEverything is your job\u201d resonates with you\u2014no task is too small if it moves the mission forward What to expect... Work Setup: Remote position Must have a reliable internet connection and a quiet workspace Required to provide own computer with Intel Core i5 or something similar or higher operating system Working Hours: 40 hours per week Approximately 9am\u20136pm ET, 40 hours/week Compensation: $8 per hour No benefits package included Benefits \ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff Originally posted on Himalayas",
+      "score": 68,
+      "keywords": [
+        "api",
+        "communication",
+        "consultance",
+        "consultance/contract",
+        "dashboard"
+      ],
+      "is_remote": true,
+      "id": 70,
       "status": "nouveau"
     },
     {
@@ -1888,7 +1940,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 69,
+      "id": 71,
       "status": "nouveau"
     },
     {
@@ -1915,32 +1967,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 70,
-      "status": "nouveau"
-    },
-    {
-      "title": "Copilot & Power Platform Architect at Nimble Gravity",
-      "organization": "",
-      "source": "JobsCollider",
-      "location": "Remote",
-      "remote_type": "remote",
-      "opportunity_type": "job",
-      "track": "emploi-data",
-      "domain": "data-bi",
-      "deadline": null,
-      "posted_at": "Sat, 01 Aug 2026 21:40:29 +0000",
-      "url": "https://remotefirstjobs.com/companies/nimble-gravity/jobs/copilot-power-platform-architect-842946",
-      "summary": "About the Role Nimble Gravity is looking for a Copilot & Power Platform Architect to lead the design and delivery of enterprise automation and AI-enabled solutions for our clients. This is a client-facing consulting role where you\u2019ll own the technical architecture end-to-end: from discovery and stakeholder workshops through build, governance, and d",
-      "description": "About the Role Nimble Gravity is looking for a Copilot & Power Platform Architect to lead the design and delivery of enterprise automation and AI-enabled solutions for our clients. This is a client-facing consulting role where you\u2019ll own the technical architecture end-to-end: from discovery and stakeholder workshops through build, governance, and deployment. You\u2019ll architect Copilot Studio agents and Power Platform solutions that integrate seamlessly into Microsoft 365 environments\u2014while ensuring the governance, security, and ALM practices needed to scale. This role is approximately 80% client delivery , with opportunities to shape internal standards ( 10% ) and support pre-sales solutioning ( 10% ). You\u2019ll collaborate with data engineers, AI specialists, and delivery leads who share a bias toward shipping high-quality work that creates real value. What You\u2019ll Do Architecture & Delivery Design and deliver end-to-end Power Platform solutions across Power Apps (Canvas + Model-driven), Power Automate, Dataverse, and Power Pages, selecting the right tools based on business goals and platform constraints. Architect and deploy Copilot Studio agents embedded into real workflows, leveraging patterns such as RAG, prompt orchestration, grounding, and tool calling when appropriate. Define scalable integration patterns across Microsoft 365 (Teams, SharePoint, Outlook), Azure services , and third-party systems via APIs, custom connectors, and on-premises gateways . Establish strong ALM practices in client environments: solution packaging, managed solutions, environment strategy, deployment pipelines, and release controls . Governance & Security Build governance frameworks that scale: environment segmentation, tenant strategy, DLP policies, RBAC, capacity planning , and lifecycle management. Define guardrails for responsible AI : data boundaries, access controls, privacy/compliance considerations, auditability, and monitoring. Design identity and security architecture with Entra ID , ensuring solutions meet enterprise security requirements. Client Leadership Lead discovery workshops to assess current state, capture requirements, and define target architecture. Produce clear client-ready deliverables: technical design docs, architecture diagrams, and implementation roadmaps . Communicate tradeoffs and recommendations to both technical teams and executive sponsors , tailoring your approach to the audience. Support pre-sales as needed: scoping, estimation, solution design, and technical demos . Enablement Contribute to Nimble Gravity\u2019s internal standards: reference architectures, templates, governance playbooks , and reusable patterns. Coach client makers and pro developers on best practices, including Center of Excellence (CoE) patterns and enterprise operating models. What We\u2019re Looking For (Must-Haves) 5+ years architecting and delivering Microsoft Power Platform solutions in enterprise environments (Power Apps, Power Automate, Dataverse). Hands-on experience with Copilot Studio and/or Microsoft 365 Copilot , including custom copilots/agents integrated into business processes. Strong command of Power Platform governance : environment strategy, DLP policies, ALM, and tenant administration. Proven experience designing integrations across Microsoft 365, Azure services , and external systems using connectors/APIs/gateways. Experience leading client-facing consulting engagements : workshops, technical documentation, and stakeholder presentations. Deep understanding of identity and access management with Entra ID (Azure AD) . Working knowledge of AI solution patterns relevant to Copilot implementations: RAG, prompt design, grounding, evaluation . Excellent communication\u2014able to explain technical concepts to non-technical audiences without losing precision. Ability to travel occasionally ( ~10\u201320% ). Nice to Have Microsoft certifications: PL-600, PL-200, PL-400, MS-600 , and/or AI-related certifications. Experience with Azure AI services (Azure OpenAI Service, Azure AI Foundry, Azure AI Search, Cognitive Services). Exposure to data platforms like Microsoft Fabric, Databricks, Synapse . Familiarity with Power BI development and integration with Power Platform solutions. Consulting background at a Microsoft Partner/SI/professional services firm. Experience implementing CoE toolkits and enterprise-scale governance programs. Exposure to compliance frameworks (SOC2, HIPAA, FedRAMP). Pro-code skills ( C#, TypeScript, Python ) to extend solutions via custom components, Azure Functions, or integrations. About Nimble Gravity Nimble Gravity is a team of outdoor enthusiasts, adrenaline seekers, and experienced growth hackers. We love solving hard problems and believe the right data can transform and propel growth for any organization. Nimble Gravity is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Nimble Gravity considers all qualified applicants.",
-      "score": 68,
-      "keywords": [
-        "api",
-        "data engineer",
-        "power bi",
-        "python"
-      ],
-      "is_remote": true,
-      "id": 71,
+      "id": 72,
       "status": "nouveau"
     },
     {
@@ -1966,7 +1993,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 72,
+      "id": 73,
       "status": "nouveau"
     },
     {
@@ -1991,7 +2018,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 73,
+      "id": 74,
       "status": "nouveau"
     },
     {
@@ -2016,7 +2043,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 74,
+      "id": 75,
       "status": "nouveau"
     },
     {
@@ -2041,7 +2068,7 @@
         "survey"
       ],
       "is_remote": true,
-      "id": 75,
+      "id": 76,
       "status": "nouveau"
     },
     {
@@ -2067,7 +2094,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 76,
+      "id": 77,
       "status": "nouveau"
     },
     {
@@ -2092,7 +2119,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 77,
+      "id": 78,
       "status": "nouveau"
     },
     {
@@ -2117,7 +2144,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 78,
+      "id": 79,
       "status": "nouveau"
     },
     {
@@ -2142,7 +2169,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 79,
+      "id": 80,
       "status": "nouveau"
     },
     {
@@ -2167,7 +2194,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 80,
+      "id": 81,
       "status": "nouveau"
     },
     {
@@ -2189,31 +2216,6 @@
         "dashboard",
         "power bi",
         "python"
-      ],
-      "is_remote": true,
-      "id": 81,
-      "status": "nouveau"
-    },
-    {
-      "title": "Marketing Analyst, Subscription Growth at ADC Dev",
-      "organization": "",
-      "source": "JobsCollider",
-      "location": "Remote",
-      "remote_type": "remote",
-      "opportunity_type": "job",
-      "track": "emploi-data",
-      "domain": "data-bi",
-      "deadline": null,
-      "posted_at": "Sat, 01 Aug 2026 18:38:28 +0000",
-      "url": "https://remotefirstjobs.com/companies/accuweather/jobs/marketing-analyst-subscription-growth-842935",
-      "summary": "AccuWeather is expanding its Marketing team and looking a Marketing Analyst, Subscription Growth to join the growing team. The Marketing Analyst, Subscription Growth supports AccuWeather\u2019s subscription growth strategy across App Store Optimization (ASO), search and discovery, and user journey analytics. This role partners closely with Product, Deve",
-      "description": "AccuWeather is expanding its Marketing team and looking a Marketing Analyst, Subscription Growth to join the growing team. The Marketing Analyst, Subscription Growth supports AccuWeather\u2019s subscription growth strategy across App Store Optimization (ASO), search and discovery, and user journey analytics. This role partners closely with Product, Development, Creative Services, and the Analytics team to improve app store visibility, conversion, and the acquisition-to-retention funnel for AccuWeather\u2019s Premium+ subscription products. The ideal candidate brings hands-on ASO experience, can demonstrate organic growth, is comfortable with mobile app and subscription funnel metrics, and has the analytical fluency to translate performance data into clear, actionable recommendations, without duplicating the deep, statistical work owned by the core Analytics team. KEY RESPONSIBILITIES Own day-to-day App Store Optimization (ASO) execution across the iOS App Store and Google Play, including keyword research, metadata, and listing optimizations. Monitor app store rankings, category performance, and keyword rank tracking using tools such as Sensor Tower, Mobile Action, AppTweak, or AppFollow. Partner with Creative Services to test and refine app screenshots, preview videos, IAE, and store listing copy through structured A/B testing (e.g., Google Play Console Experiments, Apple Product Page Optimization). Track and analyze the acquisition-to-retention user journey (install \u2192 activation \u2192 engagement \u2192 subscription conversion \u2192 upgrade), surfacing insights and flagging drop-off points for the teams to investigate further. Support search and discovery performance across owned channels, including organic search visibility and in-app discovery pathways for Premium+ features. Build and maintain recurring reporting dashboards on ASO, campaign, and subscription funnel performance for marketing leadership and cross-functional stakeholders. Collaborate with Product and Development to align organic app store presence and discovery experiences with the product roadmap and release cycles. Collaborate with Marketing team members to align ASO activities with other seasonal and scheduled promotional activities in support of subscription growth. Partner with the Analytics team on data requests and validation, serving as marketing\u2019s day-to-day analytical point of contact. Support campaign performance analysis for major marketing initiatives (e.g., seasonal and acquisition campaigns), identifying trends across App Store visits, redemptions, conversion, and install-campaign metrics (e.g., CPI, CPO) where relevant. Quantify and report the organic lift driven by ASO relative to cross-functional efforts, helping distinguish organic vs. paid contribution to installs and conversion when relevant. Monitor competitor app store presence, ratings, and reviews (e.g., using SimilarWeb), flagging trends and opportunities for the broader team. Support evaluation and reporting for in-app engagement and messaging platforms (e.g., Airship, Piano, Braze and similar vendors). Explore and evaluate AI-powered tools to improve reporting efficiency, keyword research, and creative testing workflows. Performs other duties as assigned. QUALIFICATIONS Bachelor\u2019s degree in Marketing, Business, Analytics, or a related field. 2\u20134 years of experience in growth marketing, subscription marketing, app marketing (ideally including hands-on ASO work), or marketing analytics. Working knowledge of App Store Connect and Google Play Console, and familiarity with ASO tools (e.g., Sensor Tower, Mobile Action, AppTweak, AppFollow, App Annie). Comfort working with mobile app and subscription funnel metrics (installs, conversions/upgrades, DAU/MAU, churn, ARPU). Working appreciation and application of brand guidelines into marketing communications. Proficiency with Excel/Sheets and data visualization tools (e.g., Tableau, Looker, Data Studio). Strong analytical and communication skills, with the ability to translate performance data into clear, actionable recommendations for non-technical stakeholders. Highly collaborative, with experience working across Marketing, Product, Development, and Analytics teams. Comfortable managing multiple ongoing workstreams and reporting cadences. Preferred Qualifications: Experience at an app-centric, media or weather company, agency, or with subscription-based mobile products. Familiarity with the iOS and Google Play subscription and in-app purchase ecosystems. Exposure to in-app engagement/messaging platforms (e.g., Airship, Braze, or similar CDP/ESP tools). Exposure to and integration of Claude into productivity enhancements. Familiarity with Mobile Measurement Partners (MMPs) such as AppsFlyer or Adjust is a plus. About AccuWeather AccuWeather, recognized and documented as the most accurate and most used source of weather forecasts and warnings in the world, has saved over 12,000 lives, prevented injury to over 100,000 people, and saved companies tens of billions of dollars through better planning and decision-making. Billions of people around the world rely on AccuWeather\u2019s proven Superior Accuracy\u2122 across our consumer digital platforms. AccuWeather.com is the #1 weather destination and one of the top 100 most-visited websites in the world, and our award-winning AccuWeather app delivers detailed real-time forecasts to millions of smartphones. AccuWeather forecasts also appear on digital signage, in 700 newspapers, are heard on over 400 radio stations, and viewed on 100 television stations. The AccuWeather Network and AccuWeather NOW\u00ae reach an audience of over 125 million on cable and streaming platforms including DirecTV, Charter Communications - Spectrum, Verizon, Philo, Frndly TV, Comcast\u2019s Xfinity X1 and Xfinity Stream, Roku, Xumo, Rockbot, LG, and Amazon Freevee. AccuWeather For Business serves more than half of the Fortune 500 companies and thousands of other businesses and government agencies globally. Dr. Joel Myers, Founder and Executive Chairman, established AccuWeather in 1962 and is considered the \u201cfather of modern commercial meteorology.\u201d Myers, a leading creative thinker and visionary, has been called \u201cthe most accurate man in weather\u201d by The New York Times and has been recognized as one of the top entrepreneurs in American history by Entrepreneur\u2019s Encyclopedia of Entrepreneurs. Commitment to Diversity & Inclusion AccuWeather is proud to be an Equal Opportunity/Affirmative Action Employer. We are committed to equal employment opportunity to all applicants and existing employees and we evaluate qualified applicants without regard to race, creed, color, national origin, sex (including pregnancy and gender identity/expression), sexual orientation, age, ancestry, physical or mental disability, marital status, political affiliation, religion, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law. AccuWeather is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to human.resources@accuweather.com and let us know the nature of your request and your contact information.",
-      "score": 65,
-      "keywords": [
-        "dashboard",
-        "data visualization",
-        "looker",
-        "tableau"
       ],
       "is_remote": true,
       "id": 82,
@@ -2823,31 +2825,6 @@
       "status": "nouveau"
     },
     {
-      "title": "Scientific & Laboratory Operations Specialist",
-      "organization": "micro1",
-      "source": "Himalayas",
-      "location": "Worldwide",
-      "remote_type": "remote",
-      "opportunity_type": "Contractor",
-      "track": "consultance",
-      "domain": "suivi-evaluation-etudes",
-      "deadline": "2026-08-03T02:29:12+00:00",
-      "posted_at": "2026-07-04T05:14:03+00:00",
-      "url": "https://himalayas.app/companies/micro1/jobs/scientific-laboratory-operations-specialist",
-      "summary": "Role Title: Scientific & Laboratory Operations Specialist Role Type: Contractor Location: Remote micro1 is engaging Scientific & Laboratory Operations Specialists to contribute to a customer's cutting-edge project.",
-      "description": "Role Title: Scientific & Laboratory Operations Specialist Role Type: Contractor Location: Remote micro1 is engaging Scientific & Laboratory Operations Specialists to contribute to a customer's cutting-edge project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required \u2014 your domain knowledge is what matters. This opportunity is ideal for professionals with backgrounds in biology, chemistry, physics, laboratory management, research and development, quality science, or manufacturing science who possess a keen analytical mindset and a passion for scientific rigor. Engaging in this initiative means your insights will directly impact the advancement of scientific AI technology on a global scale. Scope of Work Review and analyze scientific figures, laboratory reports, experimental results, quality documentation, and technical publications for accuracy, clarity, and consistency. Assess dashboards, charts, and scientific visualizations, providing expert feedback on their scientific integrity and presentation. Create rubrics and evaluation stems tailored for interpreting complex industry documents and visual data representations. Interpret, summarize, and critically assess complex scientific information to support the development of robust AI training datasets. Document observations, highlight potential inconsistencies, and recommend improvements for clarity and scientific accuracy. Collaborate with cross-functional teams to ensure comprehensive and high-quality project deliverables. Contribute domain-specific expertise to optimize processes and enhance the quality of training data. Preferred Qualifications Professional experience in scientific, laboratory, research, manufacturing, or quality environments. Demonstrated ability to critically evaluate scientific figures, experiment results, laboratory documentation, and technical publications. Strong analytical reasoning and problem-solving skills applied to complex scientific or technical content. Proficiency in reviewing dashboards, charts, and scientific visualizations for accuracy and utility. Excellent verbal and written communication abilities, with a focus on clear documentation and feedback. Backgrounds in biology, chemistry, physics, laboratory management, R&D, quality science, or manufacturing science are highly valued. Comfort with remote collaboration and familiarity with digital documentation tools and platforms. Originally posted on Himalayas",
-      "score": 60,
-      "keywords": [
-        "consultance",
-        "consultance/contract",
-        "dashboard",
-        "suivi-evaluation-etudes"
-      ],
-      "is_remote": true,
-      "id": 107,
-      "status": "nouveau"
-    },
-    {
       "title": "Mid and Senior ServiceNow Developers (Always Recruiting)",
       "organization": "Dev Technology Group",
       "source": "Himalayas",
@@ -2869,7 +2846,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 108,
+      "id": 107,
       "status": "nouveau"
     },
     {
@@ -2894,7 +2871,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 109,
+      "id": 108,
       "status": "nouveau"
     },
     {
@@ -2919,7 +2896,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 110,
+      "id": 109,
       "status": "nouveau"
     },
     {
@@ -2944,7 +2921,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 111,
+      "id": 110,
       "status": "nouveau"
     },
     {
@@ -2969,7 +2946,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 112,
+      "id": 111,
       "status": "nouveau"
     },
     {
@@ -2994,7 +2971,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 113,
+      "id": 112,
       "status": "nouveau"
     },
     {
@@ -3020,7 +2997,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 114,
+      "id": 113,
       "status": "nouveau"
     },
     {
@@ -3044,7 +3021,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 115,
+      "id": 114,
       "status": "nouveau"
     },
     {
@@ -3069,7 +3046,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 116,
+      "id": 115,
       "status": "nouveau"
     },
     {
@@ -3093,7 +3070,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 117,
+      "id": 116,
       "status": "nouveau"
     },
     {
@@ -3117,7 +3094,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 118,
+      "id": 117,
       "status": "nouveau"
     },
     {
@@ -3141,7 +3118,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 119,
+      "id": 118,
       "status": "nouveau"
     },
     {
@@ -3167,7 +3144,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 120,
+      "id": 119,
       "status": "nouveau"
     },
     {
@@ -3191,7 +3168,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 121,
+      "id": 120,
       "status": "nouveau"
     },
     {
@@ -3216,7 +3193,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 122,
+      "id": 121,
       "status": "nouveau"
     },
     {
@@ -3240,7 +3217,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 123,
+      "id": 122,
       "status": "nouveau"
     },
     {
@@ -3265,7 +3242,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 124,
+      "id": 123,
       "status": "nouveau"
     },
     {
@@ -3289,7 +3266,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 125,
+      "id": 124,
       "status": "nouveau"
     },
     {
@@ -3313,7 +3290,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 126,
+      "id": 125,
       "status": "nouveau"
     },
     {
@@ -3339,7 +3316,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 127,
+      "id": 126,
       "status": "nouveau"
     },
     {
@@ -3363,7 +3340,7 @@
         "power bi"
       ],
       "is_remote": true,
-      "id": 128,
+      "id": 127,
       "status": "nouveau"
     },
     {
@@ -3388,7 +3365,7 @@
         "survey"
       ],
       "is_remote": true,
-      "id": 129,
+      "id": 128,
       "status": "nouveau"
     },
     {
@@ -3412,7 +3389,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 130,
+      "id": 129,
       "status": "nouveau"
     },
     {
@@ -3436,7 +3413,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 131,
+      "id": 130,
       "status": "nouveau"
     },
     {
@@ -3460,7 +3437,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 132,
+      "id": 131,
       "status": "nouveau"
     },
     {
@@ -3484,7 +3461,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 133,
+      "id": 132,
       "status": "nouveau"
     },
     {
@@ -3508,7 +3485,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 134,
+      "id": 133,
       "status": "nouveau"
     },
     {
@@ -3532,7 +3509,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 135,
+      "id": 134,
       "status": "nouveau"
     },
     {
@@ -3555,7 +3532,7 @@
         "power bi"
       ],
       "is_remote": true,
-      "id": 136,
+      "id": 135,
       "status": "nouveau"
     },
     {
@@ -3580,7 +3557,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 137,
+      "id": 136,
       "status": "nouveau"
     },
     {
@@ -3605,7 +3582,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 138,
+      "id": 137,
       "status": "nouveau"
     },
     {
@@ -3629,7 +3606,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 139,
+      "id": 138,
       "status": "nouveau"
     },
     {
@@ -3653,7 +3630,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 140,
+      "id": 139,
       "status": "nouveau"
     },
     {
@@ -3676,7 +3653,7 @@
         "power bi"
       ],
       "is_remote": true,
-      "id": 141,
+      "id": 140,
       "status": "nouveau"
     },
     {
@@ -3702,7 +3679,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 142,
+      "id": 141,
       "status": "nouveau"
     },
     {
@@ -3726,7 +3703,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 143,
+      "id": 142,
       "status": "nouveau"
     },
     {
@@ -3750,7 +3727,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 144,
+      "id": 143,
       "status": "nouveau"
     },
     {
@@ -3775,7 +3752,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 145,
+      "id": 144,
       "status": "nouveau"
     },
     {
@@ -3800,7 +3777,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 146,
+      "id": 145,
       "status": "nouveau"
     },
     {
@@ -3825,7 +3802,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 147,
+      "id": 146,
       "status": "nouveau"
     },
     {
@@ -3850,7 +3827,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 148,
+      "id": 147,
       "status": "nouveau"
     },
     {
@@ -3875,7 +3852,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 149,
+      "id": 148,
       "status": "nouveau"
     },
     {
@@ -3896,6 +3873,31 @@
       "keywords": [
         "data scientist",
         "python",
+        "sql"
+      ],
+      "is_remote": true,
+      "id": 149,
+      "status": "nouveau"
+    },
+    {
+      "title": "Senior Full Stack Javascript Developer",
+      "organization": "Lucid Reality Labs",
+      "source": "Himalayas",
+      "location": "Worldwide",
+      "remote_type": "remote",
+      "opportunity_type": "Full Time",
+      "track": "consultance",
+      "domain": "developpement-app",
+      "deadline": "2026-10-02T08:24:56+00:00",
+      "posted_at": "2026-08-03T08:24:57+00:00",
+      "url": "https://himalayas.app/companies/lucid-reality-labs/jobs/senior-full-stack-javascript-developer",
+      "summary": "Lucid Reality Labs is developing the next generation XR solutions that change how people experience life, communicate, learn, tackle global challenges, work, and interact with the world.",
+      "description": "Lucid Reality Labs is developing the next generation XR solutions that change how people experience life, communicate, learn, tackle global challenges, work, and interact with the world. Our company has been recognized among the Top World companies in XR for years. We offer a systemic and innovative approach to complex solutions for Healthcare, Life Sciences, Aerospace and Defense, Commercial, and Public Sectors. Our award-winning cases create pathways to impactful technology. This is a great opportunity to join the key team, gain hands-on experience and exposure to spatial computing technology, and contribute to our Mission by disrupting global challenges with responsible technology! In this role, you will be primarily responsible for back-end development (approximately 80% of your tasks) to build and maintain robust, scalable server-side solutions. The remaining 20% of your responsibilities will involve front-end work using React. We are looking for an accomplished engineer who excels at designing, optimizing, and deploying sophisticated back-end systems, yet is comfortable contributing to front-end needs when necessary. Requirements What you\u2019ll be working on: Designing, estimating, and implementing both frontend and backend architecture of different complexity from ground on; Maintaining the existing code base; Creating JSON-based server APIs with generated documentation; Estimating and writing frontend logic in Single Page Applications; Collaboration with the Unity developers for API integration. Required skills: Strong knowledge of TypeScript, NestJS, React, and any kind of SQL-based database; Docker management; Experience in writing or leading the NestJS backend services from scratch; Experience in writing or leading the React app from scratch; Strong understanding of design patterns and antipatterns; Covering the meaningful pieces with tests; Experience with any cloud service; Providing the estimates on different scales, starting with tasks and ending with the full project; Good spoken and written English. Bonus points: Experience with high-load systems; Experience with AWS Services; Vue.js knowledge; Having an open-source pet project; Experience with PostgreSQL, and any NoSQL database; Experience with any kind of WebXR framework; FRP (Functional Reactive Programming) knowledge. Why work with us? 24 working days paid vacation, 7 days sick leave, and public holidays; Flexible working hours of remote work; Open-minded and outside-the-box ideas embodied in life; Award-winning and diverse team to grow together; Access to XR technologies; Minimum bureaucracy and a great working environment. Join us, and together, let\u2019s make a positive impact on how we experience life! Originally posted on Himalayas",
+      "score": 54,
+      "keywords": [
+        "api",
+        "consultance",
+        "developpement-app",
         "sql"
       ],
       "is_remote": true,
@@ -4028,31 +4030,6 @@
       "status": "nouveau"
     },
     {
-      "title": "Full Stack Developer",
-      "organization": "Orion Innovation",
-      "source": "Himalayas",
-      "location": "Worldwide",
-      "remote_type": "hybrid-remote",
-      "opportunity_type": "Full Time",
-      "track": "consultance",
-      "domain": "developpement-app",
-      "deadline": "2026-10-04T03:19:53+00:00",
-      "posted_at": "2026-07-27T20:34:07+00:00",
-      "url": "https://himalayas.app/companies/orion-innovation/jobs/full-stack-developer",
-      "summary": "Orion Innovation is a premier, award-winning, global business and technology services firm.",
-      "description": "Orion Innovation is a premier, award-winning, global business and technology services firm. Orion delivers game-changing business transformation and product development rooted in digital strategy, experience design, and engineering, with a unique combination of agility, scale, and maturity. We work with a wide range of clients across many industries including financial services, professional services, telecommunications and media, consumer products, automotive, industrial automation, professional sports and entertainment, life sciences, ecommerce, and education. About client Join a team building a cutting-edge, self-service cloud SaaS platform that enables organizations to build, connect, and deploy Voice AI services globally. The platform seamlessly integrates cognitive AI voice agents and Large Language Models (LLMs) with high-performance telephony and SIP applications, delivering scalable, real-time voice automation. We are building the next generation of AI-powered communication platforms, combining modern cloud technologies, GenAI capabilities, and telecom-grade infrastructure to create highly scalable, reliable, and intuitive solutions. About the Role We are looking for a Full Stack Developer who embraces an AI-first development approach and leverages modern AI tools such as Claude, GitHub Copilot, and other AI-assisted development platforms to accelerate design, coding, testing, and problem-solving. You will work across the entire technology stack, building scalable backend services and intuitive user interfaces while taking ownership of features from concept to production. The ideal candidate is self-driven, highly curious, and passionate about delivering exceptional products. Requirements Education B.Sc. or M.Sc. in Computer Science, Software Engineering, or equivalent practical experience. Technical Skills 3+ years of professional software development experience. Strong hands-on experience using AI tools for software planning, design, coding, testing, and troubleshooting. Strong proficiency in C#, .NET Core, and ASP.NET Core. Solid experience with React, Hooks, state management, and modern frontend ecosystems. Experience building and consuming REST and GraphQL APIs. Experience working with relational and NoSQL databases such as SQL Server, PostgreSQL, and MongoDB. Good understanding of UI/UX principles and responsive design. Strong understanding of asynchronous programming and distributed systems. Experience developing cloud-native SaaS applications. Familiarity with Docker, CI/CD pipelines, and modern development practices is an advantage. Experience with Azure Kubernetes is a plus. Soft Skills Excellent written and verbal communication skills in English. Ability to work independently and effectively in a remote environment. Strong ownership mentality and problem-solving skills. Fast learner with the ability to quickly understand and reverse-engineer complex systems. Self-motivated, proactive, and passionate about delivering high-quality software. Comfortable working in a fast-paced, highly collaborative environment. What we offer \u2022 Dynamic and supporting international teams. \u2022 Regular assessments and performance reviews. You will have the opportunity for promotion, bonuses and a raise in accordance with the pace at which you develop and your performances. \u2022 Remote, hybrid or office work. \u2022 Flexible day schedule \u2022 4 days sick leave (100% paid) \u2022 20-25 vacation days per year. \u2022 Equipment for work, laptop and all necessary additions. \u2022 Access to trainings and courses. \u2022 Private health insurance. \u2022 FIT Pass card for many sports\u2019 facilities Orion is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, citizenship status, disability status, genetic information, protected veteran status, or any other characteristic protected by law. Candidate Privacy Policy Orion Systems Integrators, LLC and its subsidiaries and its affiliates (collectively, \u201cOrion,\u201d \u201cwe\u201d or \u201cus\u201d) are committed to protecting your privacy. This Candidate Privacy Policy (orioninc.com) (\u201cNotice\u201d) explains: What information we collect during our application and recruitment process and why we collect it; How we handle that information; and How to access and update that information. Your use of Orion services is governed by any applicable terms in this notice and our general Privacy Policy. Originally posted on Himalayas",
-      "score": 54,
-      "keywords": [
-        "api",
-        "consultance",
-        "developpement-app",
-        "sql"
-      ],
-      "is_remote": true,
-      "id": 156,
-      "status": "nouveau"
-    },
-    {
       "title": "Principal Trust Governance Lead",
       "organization": "Autodesk",
       "source": "The Muse",
@@ -4073,7 +4050,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 157,
+      "id": 156,
       "status": "nouveau"
     },
     {
@@ -4097,7 +4074,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 158,
+      "id": 157,
       "status": "nouveau"
     },
     {
@@ -4121,7 +4098,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 159,
+      "id": 158,
       "status": "nouveau"
     },
     {
@@ -4145,7 +4122,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 160,
+      "id": 159,
       "status": "nouveau"
     },
     {
@@ -4170,32 +4147,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 161,
-      "status": "nouveau"
-    },
-    {
-      "title": "Traveler Care Specialist Luxury Travel",
-      "organization": "Zicasso",
-      "source": "RemoteOK",
-      "location": "Remote",
-      "remote_type": "remote",
-      "opportunity_type": "job",
-      "track": "consultance",
-      "domain": "developpement-app",
-      "deadline": null,
-      "posted_at": "2026-07-30T00:00:04+00:00",
-      "url": "https://remoteOK.com/remote-jobs/remote-traveler-care-specialist-luxury-travel-zicasso-1135640",
-      "summary": "Company Overview Established in 2008, Zicasso is the most-reviewed and highest-rated luxury travel company, specializing in immersive custom tours, vacations, and safaris. Our Zicasso travel specialists are the world\u00e2\u0080\u0099s top 2% of boutique tour operators and travel agents, pre-vetted and handpicked to compete in creating itineraries tailored to each of our travelers\u00e2\u0080\u0099 unique preferences. Joining Zicasso, you'll play a key role in bringing our travelers\u00e2\u0080\u0099 dreams to life\u00e2\u0080\u0094pushing the boundaries of what\u00e2\u0080\u0099s possible with luxury travel experiences. As a member of our team, you\u00e2\u0080\u0099ll be part of a company recognized for its strong brand reputation among discerning travelers. Our authority in the luxury travel industry is consistently affirmed through features in top media outlets, including The New York Times, The Wall Street Journal, BBC, Forbes, CNN, and Cond\u00c3\u00a9 Nast Traveler, to name a few. See our press coverage here. We are a fully remote company spanning five continents, and we foster a dynamic, progressive global work environment that values creativity, initiative, and continuous learning. We're seeking passionate, data-driven individuals who thrive in a high-performance environment and are eager to contribute to our innovative company culture, underpinned by a consistent pursuit of excellence, integrity, and teamwork. Our global team comes together biannually for international retreats and summits. These are typically held for a week at a new location each time, providing opportunities to share ideas, collaborate in person, and strengthen our culture, all while learning firsthand about the destinations we serve. These events embody our commitment to both professional growth and the transformative power of travel. Join us in shaping the future of luxury travel while working towards our vision\u00e2\u0080\u0094creating a more connected humanity through travel. To learn more, visit https://www.zicasso.com/careers. The Role Currently, we are seeking a highly motivated, customer service-minded Traveler Care Specialist who embraces an entrepreneurial spirit and has a passion for international travel! This role will be working at the intersection of our travelers and Zicasso\u00e2\u0080\u0099s global network of travel providers (partners), making both sides delighted with Zicasso\u00e2\u0080\u0099s unique matching service and will be responsible for assessing and processing incoming travel inquiries via email/messaging, phone, and online. You will learn to understand analytics and help ensure that we are maximizing the potential of our leads. You will build trusted relationships with our travelers to understand their travel needs and ensure these needs are being met and their expectations exceeded. This position plays a key role towards driving loyalty and repeat bookings of our most valued travelers. This is an international, fully remote, freelance contractor position, working from home with a 5-day workweek that includes rotating weekend shifts. Initial training (3 to 4 weeks) will take place Monday through Friday.\u00c2 This role is open to candidates located outside of the United States, with a strong preference for those based in Argentina, Costa Rica, Brazil, and Colombia. The work will all be conducted in English. Key Responsibilities Provide exceptional customer service to travelers by taking ownership of their inquiries and becoming a trusted advisor throughout their use of Zicasso services. This includes assessing and solving incoming traveler inquiries via phone, live chat, messages and email. Build trusted, long-lasting relationships with discerning luxury clients to strengthen their confidence in Zicasso. This involves assisting and serving clients in a way that meets their needs and exceeds their expectations. Ensure a high level of inquiry conversion by demonstrating expertise in consultation, product knowledge, and the benefits of using Zicasso. This includes speaking with travelers via phone calls (and sometimes video), helping them understand how Zicasso works, and providing guidance for their travel needs. Participate cross-functionally with the Partnerships, Product, and Marketing teams to integrate best practices and solutions for the client's experience and/or issues that may arise. Partner with the Care Team leadership on projects and initiatives to solve problems and create innovative solutions. Leverage Zicasso\u00e2\u0080\u0099s data, analytics and technology\u00c2 to set new standards for customer success, driving innovation and excellence for the luxury travel industry. Provide consultation and advice to move general inquiries to destination-specific trip requests. Coach and mentor team members as needed. Please Note: We\u00e2\u0080\u0099re seeking highly-motivated candidates. Those who excel in this role will be given the opportunity to take on increasingly complex projects and initiatives, and grow their role and responsibility within the Traveler Care Team. Required Skills and Experience Minimum 8+ years of experience in the travel industry, with a focus on travel sales or operations of luxury tours or hotels. Examples of relevant experience include tour leader, tour director, hotel front desk, client relations, or guest services Passionate about travel, with extensive experience traveling abroad and a strong curiosity about new international destinations. Strong customer service-focused skills, with a passion for building strong relationships with travelers. This includes being comfortable with telephone-based work as a key part of the role. Excellent fluency in oral and written English. A cheerful and confident person who is adaptable to different styles of communication and traveler behaviors. Highly motivated and enthusiastic, with a willingness to put in extra effort in a start-up environment to drive company success. Comfortable with technology and able to quickly learn and adapt to the use of new software. Thorough knowledge of Google Workspace (formerly G Suite) (e.g. Docs, Sheets, Slides) is preferred. Strong organizational skills and attention to detail, striving to achieve quality, error-free work. Work flexible hours, including weekends, evenings, and holidays. A Bachelor's degree or higher is preferred. What We Offer: Remote work from your home base and flexible hours that allow you to enjoy a great work-life balance. Innovative, fast-paced and collaborative culture that values diverse voices and opinions. Learning and development annual stipend. Enjoy two company-sponsored business trips each year at international destinations we serve! If you are a customer service-minded problem solver with a passion for travel and a strong desire to make a difference, we strongly encourage you to apply for this exciting opportunity to join our team and help shape the future of personalized, life-enriching travel experiences at Zicasso! All applications should be submitted in English. Our Commitment to Candidates Zicasso is an Equal Opportunity Employer. Applicable to all locations, all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by local law. We provide reasonable accommodations to qualified individuals with disabilities; if you need an accommodation to participate in the application process, please contact careers@zicasso.com. At Zicasso, we value a highly personalized recruitment journey. For recruiting purposes, we may use AI tools to review, transcribe, and record application materials and interviews, but this is always under human review and judgment. All final hiring determinations are made exclusively by our hiring teams. Please mention the word **PAMPER** and tag RNTIuMTUyLjE4MC4yMDI= when applying to show you read the job post completely (#RNTIuMTUyLjE4MC4yMDI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "description": "Company Overview Established in 2008, Zicasso is the most-reviewed and highest-rated luxury travel company, specializing in immersive custom tours, vacations, and safaris. Our Zicasso travel specialists are the world\u00e2\u0080\u0099s top 2% of boutique tour operators and travel agents, pre-vetted and handpicked to compete in creating itineraries tailored to each of our travelers\u00e2\u0080\u0099 unique preferences. Joining Zicasso, you'll play a key role in bringing our travelers\u00e2\u0080\u0099 dreams to life\u00e2\u0080\u0094pushing the boundaries of what\u00e2\u0080\u0099s possible with luxury travel experiences. As a member of our team, you\u00e2\u0080\u0099ll be part of a company recognized for its strong brand reputation among discerning travelers. Our authority in the luxury travel industry is consistently affirmed through features in top media outlets, including The New York Times, The Wall Street Journal, BBC, Forbes, CNN, and Cond\u00c3\u00a9 Nast Traveler, to name a few. See our press coverage here. We are a fully remote company spanning five continents, and we foster a dynamic, progressive global work environment that values creativity, initiative, and continuous learning. We're seeking passionate, data-driven individuals who thrive in a high-performance environment and are eager to contribute to our innovative company culture, underpinned by a consistent pursuit of excellence, integrity, and teamwork. Our global team comes together biannually for international retreats and summits. These are typically held for a week at a new location each time, providing opportunities to share ideas, collaborate in person, and strengthen our culture, all while learning firsthand about the destinations we serve. These events embody our commitment to both professional growth and the transformative power of travel. Join us in shaping the future of luxury travel while working towards our vision\u00e2\u0080\u0094creating a more connected humanity through travel. To learn more, visit https://www.zicasso.com/careers. The Role Currently, we are seeking a highly motivated, customer service-minded Traveler Care Specialist who embraces an entrepreneurial spirit and has a passion for international travel! This role will be working at the intersection of our travelers and Zicasso\u00e2\u0080\u0099s global network of travel providers (partners), making both sides delighted with Zicasso\u00e2\u0080\u0099s unique matching service and will be responsible for assessing and processing incoming travel inquiries via email/messaging, phone, and online. You will learn to understand analytics and help ensure that we are maximizing the potential of our leads. You will build trusted relationships with our travelers to understand their travel needs and ensure these needs are being met and their expectations exceeded. This position plays a key role towards driving loyalty and repeat bookings of our most valued travelers. This is an international, fully remote, freelance contractor position, working from home with a 5-day workweek that includes rotating weekend shifts. Initial training (3 to 4 weeks) will take place Monday through Friday.\u00c2 This role is open to candidates located outside of the United States, with a strong preference for those based in Argentina, Costa Rica, Brazil, and Colombia. The work will all be conducted in English. Key Responsibilities Provide exceptional customer service to travelers by taking ownership of their inquiries and becoming a trusted advisor throughout their use of Zicasso services. This includes assessing and solving incoming traveler inquiries via phone, live chat, messages and email. Build trusted, long-lasting relationships with discerning luxury clients to strengthen their confidence in Zicasso. This involves assisting and serving clients in a way that meets their needs and exceeds their expectations. Ensure a high level of inquiry conversion by demonstrating expertise in consultation, product knowledge, and the benefits of using Zicasso. This includes speaking with travelers via phone calls (and sometimes video), helping them understand how Zicasso works, and providing guidance for their travel needs. Participate cross-functionally with the Partnerships, Product, and Marketing teams to integrate best practices and solutions for the client's experience and/or issues that may arise. Partner with the Care Team leadership on projects and initiatives to solve problems and create innovative solutions. Leverage Zicasso\u00e2\u0080\u0099s data, analytics and technology\u00c2 to set new standards for customer success, driving innovation and excellence for the luxury travel industry. Provide consultation and advice to move general inquiries to destination-specific trip requests. Coach and mentor team members as needed. Please Note: We\u00e2\u0080\u0099re seeking highly-motivated candidates. Those who excel in this role will be given the opportunity to take on increasingly complex projects and initiatives, and grow their role and responsibility within the Traveler Care Team. Required Skills and Experience Minimum 8+ years of experience in the travel industry, with a focus on travel sales or operations of luxury tours or hotels. Examples of relevant experience include tour leader, tour director, hotel front desk, client relations, or guest services Passionate about travel, with extensive experience traveling abroad and a strong curiosity about new international destinations. Strong customer service-focused skills, with a passion for building strong relationships with travelers. This includes being comfortable with telephone-based work as a key part of the role. Excellent fluency in oral and written English. A cheerful and confident person who is adaptable to different styles of communication and traveler behaviors. Highly motivated and enthusiastic, with a willingness to put in extra effort in a start-up environment to drive company success. Comfortable with technology and able to quickly learn and adapt to the use of new software. Thorough knowledge of Google Workspace (formerly G Suite) (e.g. Docs, Sheets, Slides) is preferred. Strong organizational skills and attention to detail, striving to achieve quality, error-free work. Work flexible hours, including weekends, evenings, and holidays. A Bachelor's degree or higher is preferred. What We Offer: Remote work from your home base and flexible hours that allow you to enjoy a great work-life balance. Innovative, fast-paced and collaborative culture that values diverse voices and opinions. Learning and development annual stipend. Enjoy two company-sponsored business trips each year at international destinations we serve! If you are a customer service-minded problem solver with a passion for travel and a strong desire to make a difference, we strongly encourage you to apply for this exciting opportunity to join our team and help shape the future of personalized, life-enriching travel experiences at Zicasso! All applications should be submitted in English. Our Commitment to Candidates Zicasso is an Equal Opportunity Employer. Applicable to all locations, all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by local law. We provide reasonable accommodations to qualified individuals with disabilities; if you need an accommodation to participate in the application process, please contact careers@zicasso.com. At Zicasso, we value a highly personalized recruitment journey. For recruiting purposes, we may use AI tools to review, transcribe, and record application materials and interviews, but this is always under human review and judgment. All final hiring determinations are made exclusively by our hiring teams. Please mention the word **PAMPER** and tag RNTIuMTUyLjE4MC4yMDI= when applying to show you read the job post completely (#RNTIuMTUyLjE4MC4yMDI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "score": 53,
-      "keywords": [
-        "api",
-        "consultance",
-        "consultance/contract",
-        "developpement-app"
-      ],
-      "is_remote": true,
-      "id": 162,
+      "id": 160,
       "status": "nouveau"
     },
     {
@@ -4219,7 +4171,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 163,
+      "id": 161,
       "status": "nouveau"
     },
     {
@@ -4244,7 +4196,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 164,
+      "id": 162,
       "status": "nouveau"
     },
     {
@@ -4268,7 +4220,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 165,
+      "id": 163,
       "status": "nouveau"
     },
     {
@@ -4293,7 +4245,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 166,
+      "id": 164,
       "status": "nouveau"
     },
     {
@@ -4318,7 +4270,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 167,
+      "id": 165,
       "status": "nouveau"
     },
     {
@@ -4343,7 +4295,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 168,
+      "id": 166,
       "status": "nouveau"
     },
     {
@@ -4368,7 +4320,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 169,
+      "id": 167,
       "status": "nouveau"
     },
     {
@@ -4393,7 +4345,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 170,
+      "id": 168,
       "status": "nouveau"
     },
     {
@@ -4418,7 +4370,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 171,
+      "id": 169,
       "status": "nouveau"
     },
     {
@@ -4442,7 +4394,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 172,
+      "id": 170,
       "status": "nouveau"
     },
     {
@@ -4467,7 +4419,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 173,
+      "id": 171,
       "status": "nouveau"
     },
     {
@@ -4491,7 +4443,7 @@
         "grafana"
       ],
       "is_remote": true,
-      "id": 174,
+      "id": 172,
       "status": "nouveau"
     },
     {
@@ -4515,7 +4467,7 @@
         "survey"
       ],
       "is_remote": true,
-      "id": 175,
+      "id": 173,
       "status": "nouveau"
     },
     {
@@ -4540,7 +4492,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 176,
+      "id": 174,
       "status": "nouveau"
     },
     {
@@ -4565,7 +4517,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 177,
+      "id": 175,
       "status": "nouveau"
     },
     {
@@ -4590,7 +4542,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 178,
+      "id": 176,
       "status": "nouveau"
     },
     {
@@ -4615,7 +4567,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 179,
+      "id": 177,
       "status": "nouveau"
     },
     {
@@ -4640,7 +4592,32 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 180,
+      "id": 178,
+      "status": "nouveau"
+    },
+    {
+      "title": "Senior Salesforce Consultant at Hunley",
+      "organization": "",
+      "source": "JobsCollider",
+      "location": "Remote",
+      "remote_type": "remote",
+      "opportunity_type": "job",
+      "track": "consultance",
+      "domain": "developpement-app",
+      "deadline": null,
+      "posted_at": "Sun, 02 Aug 2026 20:19:21 +0000",
+      "url": "https://remotefirstjobs.com/companies/the-hunley-group-llc/jobs/senior-salesforce-consultant-843028",
+      "summary": "Hunley is a rapidly growing Salesforce Summit Partner headquartered in Davidson, NC, with a fully remote team working from all corners of the country. We move quickly, collaborate deeply, and keep our clients at the center of everything we do. We\u2019re proud to be known not just as a trusted partner to our clients, but also as a place where people gen",
+      "description": "Hunley is a rapidly growing Salesforce Summit Partner headquartered in Davidson, NC, with a fully remote team working from all corners of the country. We move quickly, collaborate deeply, and keep our clients at the center of everything we do. We\u2019re proud to be known not just as a trusted partner to our clients, but also as a place where people genuinely enjoy working. Senior Salesforce Consultant Hunley (Remote-US Based) Responsibilities You will serve as a key team member on client projects. You will take part in: Business analysis and discovery Process design Requirements definition Instance configuration tasks, including reporting, object and field creation and modification, validation rules, processes, workflows, approvals, page layouts, permissions, etc. Data management - data review, manipulation (imports/exports/transformation), data quality management Testing Training You may serve as the key point of contact or outsourced Salesforce administrator for one or more existing clients, ensuring their requests and needs are captured and executed on Qualifications Minimum 5-10 years of experience working as a Salesforce consultant Current Salesforce Administrator certification required sales Cloud and/or Service Cloud or other certifications Field Service Lightning Consultant certification is a plus CPQ specialist certification is a plus Einstein Analytics certification is a plus Experience working in an Agile or \u201cmodified-Agile\u201d environment Understanding of data and data migration methodologies You should have contributed significantly to multiple new instance Salesforce implementations, or have participated in a number of large-scale projects in existing Salesforce instances. Bachelors degree preferred At least one year of prior remote work experience Required Skills: Good communication skills; able to speak to business users in \u201clayman\u2019s language\u201d (Politely) critical thinker \u2013 spots gaps, challenges assumptions, pushes back against bad ideas, offers best-practices alternatives Synthesis: Able to interpret user requirements definitions; able to create solid requirements definitions based on customer interviews Calm - keeps an even keel and a steady hand High threshold for quality; turns in good product; able to create and follow solid test plans If you\u2019re hungry to grow, eager to be challenged, and ready to work alongside a sharp, driven team at a fast-growing Salesforce Partner \u2014 we\u2019d love to connect. At Hunley, we\u2019re building more than just great client outcomes \u2014 we\u2019re creating a workplace where diverse perspectives thrive, where every team member feels seen and supported, and where belonging is more than just a buzzword. We believe that diverse teams are stronger teams, and we encourage candidates from all backgrounds and walks of life to apply. We offer competitive compensation and a solid benefits package \u2014 and we promise, you\u2019ll never be bored. Note: This role is for direct applicants only. No recruiters or agencies, please.",
+      "score": 53,
+      "keywords": [
+        "api",
+        "consultance",
+        "consultance/contract",
+        "developpement-app"
+      ],
+      "is_remote": true,
+      "id": 179,
       "status": "nouveau"
     },
     {
@@ -4665,7 +4642,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 181,
+      "id": 180,
       "status": "nouveau"
     },
     {
@@ -4690,7 +4667,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 182,
+      "id": 181,
       "status": "nouveau"
     },
     {
@@ -4714,7 +4691,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 183,
+      "id": 182,
       "status": "nouveau"
     },
     {
@@ -4738,7 +4715,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 184,
+      "id": 183,
       "status": "nouveau"
     },
     {
@@ -4762,7 +4739,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 185,
+      "id": 184,
       "status": "nouveau"
     },
     {
@@ -4786,7 +4763,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 186,
+      "id": 185,
       "status": "nouveau"
     },
     {
@@ -4810,7 +4787,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 187,
+      "id": 186,
       "status": "nouveau"
     },
     {
@@ -4834,7 +4811,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 188,
+      "id": 187,
       "status": "nouveau"
     },
     {
@@ -4858,7 +4835,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 189,
+      "id": 188,
       "status": "nouveau"
     },
     {
@@ -4882,7 +4859,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 190,
+      "id": 189,
       "status": "nouveau"
     },
     {
@@ -4907,7 +4884,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 191,
+      "id": 190,
       "status": "nouveau"
     },
     {
@@ -4931,7 +4908,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 192,
+      "id": 191,
       "status": "nouveau"
     },
     {
@@ -4955,7 +4932,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 193,
+      "id": 192,
       "status": "nouveau"
     },
     {
@@ -4980,7 +4957,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 194,
+      "id": 193,
       "status": "nouveau"
     },
     {
@@ -5003,7 +4980,7 @@
         "data scientist"
       ],
       "is_remote": true,
-      "id": 195,
+      "id": 194,
       "status": "nouveau"
     },
     {
@@ -5027,7 +5004,7 @@
         "data engineer"
       ],
       "is_remote": true,
-      "id": 196,
+      "id": 195,
       "status": "nouveau"
     },
     {
@@ -5051,7 +5028,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 197,
+      "id": 196,
       "status": "nouveau"
     },
     {
@@ -5074,7 +5051,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 198,
+      "id": 197,
       "status": "nouveau"
     },
     {
@@ -5098,7 +5075,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 199,
+      "id": 198,
       "status": "nouveau"
     },
     {
@@ -5123,7 +5100,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 200,
+      "id": 199,
       "status": "nouveau"
     },
     {
@@ -5146,7 +5123,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 201,
+      "id": 200,
       "status": "nouveau"
     },
     {
@@ -5170,7 +5147,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 202,
+      "id": 201,
       "status": "nouveau"
     },
     {
@@ -5195,7 +5172,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 203,
+      "id": 202,
       "status": "nouveau"
     },
     {
@@ -5220,7 +5197,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 204,
+      "id": 203,
       "status": "nouveau"
     },
     {
@@ -5245,7 +5222,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 205,
+      "id": 204,
       "status": "nouveau"
     },
     {
@@ -5270,7 +5247,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 206,
+      "id": 205,
       "status": "nouveau"
     },
     {
@@ -5293,7 +5270,7 @@
         "power bi"
       ],
       "is_remote": true,
-      "id": 207,
+      "id": 206,
       "status": "nouveau"
     },
     {
@@ -5316,7 +5293,7 @@
         "power bi"
       ],
       "is_remote": true,
-      "id": 208,
+      "id": 207,
       "status": "nouveau"
     },
     {
@@ -5341,7 +5318,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 209,
+      "id": 208,
       "status": "nouveau"
     },
     {
@@ -5366,7 +5343,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 210,
+      "id": 209,
       "status": "nouveau"
     },
     {
@@ -5389,7 +5366,7 @@
         "power bi"
       ],
       "is_remote": true,
-      "id": 211,
+      "id": 210,
       "status": "nouveau"
     },
     {
@@ -5414,7 +5391,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 212,
+      "id": 211,
       "status": "nouveau"
     },
     {
@@ -5439,7 +5416,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 213,
+      "id": 212,
       "status": "nouveau"
     },
     {
@@ -5464,7 +5441,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 214,
+      "id": 213,
       "status": "nouveau"
     },
     {
@@ -5489,7 +5466,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 215,
+      "id": 214,
       "status": "nouveau"
     },
     {
@@ -5514,7 +5491,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 216,
+      "id": 215,
       "status": "nouveau"
     },
     {
@@ -5539,30 +5516,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 217,
-      "status": "nouveau"
-    },
-    {
-      "title": "Enterprise Customer Success Manager at Parkade",
-      "organization": "",
-      "source": "JobsCollider",
-      "location": "Remote",
-      "remote_type": "remote",
-      "opportunity_type": "job",
-      "track": "emploi-data",
-      "domain": "data-bi",
-      "deadline": null,
-      "posted_at": "Sat, 01 Aug 2026 18:15:23 +0000",
-      "url": "https://remotefirstjobs.com/companies/parkade/jobs/enterprise-customer-success-manager-842932",
-      "summary": "About Parkade Parkade is a B2B2C SaaS platform that modernizes private parking for apartments, mixed-use, and offices. We help buildings move away from the headaches of stickers, hang tags, and spreadsheets to a fully automated, self-serve app for parking management, enforcement, and customer service. We have carved out a highly differentiated posi",
-      "description": "About Parkade Parkade is a B2B2C SaaS platform that modernizes private parking for apartments, mixed-use, and offices. We help buildings move away from the headaches of stickers, hang tags, and spreadsheets to a fully automated, self-serve app for parking management, enforcement, and customer service. We have carved out a highly differentiated position in a massive PropTech market, our customers love us, and we closed a successful Series A funding round. Parkade is officially in hypergrowth. We\u2019re a lean, high-impact team where your work is visible, your ideas matter, and there\u2019s real room to shape how things get done. The Role Reporting to the VP of Operations, you\u2019ll own full post-sales lifecycle for enterprise property management accounts representing, including multifamily communities with 200+ units and commercial office portfolios. You\u2019ll help drive adoption of Parkade\u2019s digital parking platform across residents, property staff, and management. You will also partner with property management VPs and regional managers as a trusted advisor on parking revenue management, growth opportunities, utilization, enforcement, and more. Key Responsibilities Drive account growth and revenue expansion. Identify growth opportunities for sales team within existing accounts by facilitating Parkade to new properties in the portfolio. Own retention and customer delight. Monitor account health signals and proactively intervene to address churn risk or underutilization before renewals. Be a proactive relationship manager. You\u2019ll develop quarterly business reviews and success plans that demonstrate ROI through grounded metrics and best practices. Serve as the voice of the customer to drive product innovation. Synthesize operational data, parking utilization metrics, and enterprise client feedback to provide product opportunities for new features or improvements. Some travel for client meetings, conferences, etc. Required Skills 5+ years of enterprise B2B SaaS customer success management with portfolio ownership of $500K+ ARR Property management or PropTech industry experience with understanding of multifamily and commercial real estate operations Proven track record driving net revenue retention above 110% through expansion and renewal strategies Executive relationship management with enterprise Directors and VP-level stakeholders Implementation and onboarding program management for technical software deployments across multi-site portfolios Preferred Skills Experience with parking operations, access control systems, or physical asset management platforms Working knowledge of SQL and experience with low-code platforms (Retool, Airtable, etc.) to build dashboards and operational tools without waiting on engineering Background in residential or commercial property management operations (HOA, multifamily, office) Familiarity with mobile app adoption strategies and resident engagement programs",
-      "score": 49,
-      "keywords": [
-        "dashboard",
-        "sql"
-      ],
-      "is_remote": true,
-      "id": 218,
+      "id": 216,
       "status": "nouveau"
     },
     {
@@ -5585,7 +5539,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 219,
+      "id": 217,
       "status": "nouveau"
     },
     {
@@ -5608,7 +5562,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 220,
+      "id": 218,
       "status": "nouveau"
     },
     {
@@ -5631,7 +5585,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 221,
+      "id": 219,
       "status": "nouveau"
     },
     {
@@ -5654,7 +5608,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 222,
+      "id": 220,
       "status": "nouveau"
     },
     {
@@ -5677,7 +5631,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 223,
+      "id": 221,
       "status": "nouveau"
     },
     {
@@ -5700,7 +5654,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 224,
+      "id": 222,
       "status": "nouveau"
     },
     {
@@ -5723,7 +5677,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 225,
+      "id": 223,
       "status": "nouveau"
     },
     {
@@ -5746,7 +5700,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 226,
+      "id": 224,
       "status": "nouveau"
     },
     {
@@ -5770,7 +5724,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 227,
+      "id": 225,
       "status": "nouveau"
     },
     {
@@ -5793,7 +5747,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 228,
+      "id": 226,
       "status": "nouveau"
     },
     {
@@ -5816,7 +5770,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 229,
+      "id": 227,
       "status": "nouveau"
     },
     {
@@ -5839,7 +5793,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 230,
+      "id": 228,
       "status": "nouveau"
     },
     {
@@ -5862,7 +5816,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 231,
+      "id": 229,
       "status": "nouveau"
     },
     {
@@ -5885,7 +5839,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 232,
+      "id": 230,
       "status": "nouveau"
     },
     {
@@ -5908,7 +5862,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 233,
+      "id": 231,
       "status": "nouveau"
     },
     {
@@ -5931,7 +5885,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 234,
+      "id": 232,
       "status": "nouveau"
     },
     {
@@ -5955,7 +5909,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 235,
+      "id": 233,
       "status": "nouveau"
     },
     {
@@ -5978,7 +5932,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 236,
+      "id": 234,
       "status": "nouveau"
     },
     {
@@ -6002,7 +5956,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 237,
+      "id": 235,
       "status": "nouveau"
     },
     {
@@ -6025,7 +5979,7 @@
         "business intelligence"
       ],
       "is_remote": true,
-      "id": 238,
+      "id": 236,
       "status": "nouveau"
     },
     {
@@ -6048,7 +6002,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 239,
+      "id": 237,
       "status": "nouveau"
     },
     {
@@ -6072,7 +6026,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 240,
+      "id": 238,
       "status": "nouveau"
     },
     {
@@ -6096,7 +6050,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 241,
+      "id": 239,
       "status": "nouveau"
     },
     {
@@ -6119,7 +6073,7 @@
         "data visualization"
       ],
       "is_remote": true,
-      "id": 242,
+      "id": 240,
       "status": "nouveau"
     },
     {
@@ -6143,7 +6097,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 243,
+      "id": 241,
       "status": "nouveau"
     },
     {
@@ -6166,7 +6120,7 @@
         "data visualization"
       ],
       "is_remote": true,
-      "id": 244,
+      "id": 242,
       "status": "nouveau"
     },
     {
@@ -6190,7 +6144,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 245,
+      "id": 243,
       "status": "nouveau"
     },
     {
@@ -6213,7 +6167,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 246,
+      "id": 244,
       "status": "nouveau"
     },
     {
@@ -6236,7 +6190,7 @@
         "business intelligence"
       ],
       "is_remote": true,
-      "id": 247,
+      "id": 245,
       "status": "nouveau"
     },
     {
@@ -6259,7 +6213,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 248,
+      "id": 246,
       "status": "nouveau"
     },
     {
@@ -6282,7 +6236,7 @@
         "business intelligence"
       ],
       "is_remote": true,
-      "id": 249,
+      "id": 247,
       "status": "nouveau"
     },
     {
@@ -6305,7 +6259,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 250,
+      "id": 248,
       "status": "nouveau"
     },
     {
@@ -6328,7 +6282,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 251,
+      "id": 249,
       "status": "nouveau"
     },
     {
@@ -6352,7 +6306,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 252,
+      "id": 250,
       "status": "nouveau"
     },
     {
@@ -6376,7 +6330,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 253,
+      "id": 251,
       "status": "nouveau"
     },
     {
@@ -6400,7 +6354,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 254,
+      "id": 252,
       "status": "nouveau"
     },
     {
@@ -6424,7 +6378,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 255,
+      "id": 253,
       "status": "nouveau"
     },
     {
@@ -6448,7 +6402,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 256,
+      "id": 254,
       "status": "nouveau"
     },
     {
@@ -6472,7 +6426,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 257,
+      "id": 255,
       "status": "nouveau"
     },
     {
@@ -6496,7 +6450,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 258,
+      "id": 256,
       "status": "nouveau"
     },
     {
@@ -6520,7 +6474,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 259,
+      "id": 257,
       "status": "nouveau"
     },
     {
@@ -6544,7 +6498,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 260,
+      "id": 258,
       "status": "nouveau"
     },
     {
@@ -6568,7 +6522,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 261,
+      "id": 259,
       "status": "nouveau"
     },
     {
@@ -6592,7 +6546,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 262,
+      "id": 260,
       "status": "nouveau"
     },
     {
@@ -6616,7 +6570,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 263,
+      "id": 261,
       "status": "nouveau"
     },
     {
@@ -6640,7 +6594,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 264,
+      "id": 262,
       "status": "nouveau"
     },
     {
@@ -6664,7 +6618,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 265,
+      "id": 263,
       "status": "nouveau"
     },
     {
@@ -6688,7 +6642,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 266,
+      "id": 264,
       "status": "nouveau"
     },
     {
@@ -6712,7 +6666,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 267,
+      "id": 265,
       "status": "nouveau"
     },
     {
@@ -6736,7 +6690,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 268,
+      "id": 266,
       "status": "nouveau"
     },
     {
@@ -6760,7 +6714,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 269,
+      "id": 267,
       "status": "nouveau"
     },
     {
@@ -6784,7 +6738,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 270,
+      "id": 268,
       "status": "nouveau"
     },
     {
@@ -6808,7 +6762,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 271,
+      "id": 269,
       "status": "nouveau"
     },
     {
@@ -6832,7 +6786,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 272,
+      "id": 270,
       "status": "nouveau"
     },
     {
@@ -6856,7 +6810,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 273,
+      "id": 271,
       "status": "nouveau"
     },
     {
@@ -6880,7 +6834,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 274,
+      "id": 272,
       "status": "nouveau"
     },
     {
@@ -6904,7 +6858,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 275,
+      "id": 273,
       "status": "nouveau"
     },
     {
@@ -6928,7 +6882,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 276,
+      "id": 274,
       "status": "nouveau"
     },
     {
@@ -6952,7 +6906,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 277,
+      "id": 275,
       "status": "nouveau"
     },
     {
@@ -6976,7 +6930,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 278,
+      "id": 276,
       "status": "nouveau"
     },
     {
@@ -7000,7 +6954,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 279,
+      "id": 277,
       "status": "nouveau"
     },
     {
@@ -7024,7 +6978,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 280,
+      "id": 278,
       "status": "nouveau"
     },
     {
@@ -7048,7 +7002,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 281,
+      "id": 279,
       "status": "nouveau"
     },
     {
@@ -7072,7 +7026,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 282,
+      "id": 280,
       "status": "nouveau"
     },
     {
@@ -7096,7 +7050,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 283,
+      "id": 281,
       "status": "nouveau"
     },
     {
@@ -7119,7 +7073,7 @@
         "data analyst"
       ],
       "is_remote": true,
-      "id": 284,
+      "id": 282,
       "status": "nouveau"
     },
     {
@@ -7143,7 +7097,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 285,
+      "id": 283,
       "status": "nouveau"
     },
     {
@@ -7167,7 +7121,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 286,
+      "id": 284,
       "status": "nouveau"
     },
     {
@@ -7191,7 +7145,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 287,
+      "id": 285,
       "status": "nouveau"
     },
     {
@@ -7215,7 +7169,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 288,
+      "id": 286,
       "status": "nouveau"
     },
     {
@@ -7239,7 +7193,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 289,
+      "id": 287,
       "status": "nouveau"
     },
     {
@@ -7263,7 +7217,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 290,
+      "id": 288,
       "status": "nouveau"
     },
     {
@@ -7287,7 +7241,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 291,
+      "id": 289,
       "status": "nouveau"
     },
     {
@@ -7311,7 +7265,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 292,
+      "id": 290,
       "status": "nouveau"
     },
     {
@@ -7335,7 +7289,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 293,
+      "id": 291,
       "status": "nouveau"
     },
     {
@@ -7359,7 +7313,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 294,
+      "id": 292,
       "status": "nouveau"
     },
     {
@@ -7383,7 +7337,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 295,
+      "id": 293,
       "status": "nouveau"
     },
     {
@@ -7407,7 +7361,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 296,
+      "id": 294,
       "status": "nouveau"
     },
     {
@@ -7431,7 +7385,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 297,
+      "id": 295,
       "status": "nouveau"
     },
     {
@@ -7455,7 +7409,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 298,
+      "id": 296,
       "status": "nouveau"
     },
     {
@@ -7479,7 +7433,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 299,
+      "id": 297,
       "status": "nouveau"
     },
     {
@@ -7503,55 +7457,7 @@
         "consultance"
       ],
       "is_remote": true,
-      "id": 300,
-      "status": "nouveau"
-    },
-    {
-      "title": "Management Consultant / Business Strategy Specialist",
-      "organization": "micro1",
-      "source": "Himalayas",
-      "location": "Worldwide",
-      "remote_type": "remote",
-      "opportunity_type": "Contractor",
-      "track": "consultance",
-      "domain": "suivi-evaluation-etudes",
-      "deadline": "2026-08-03T02:34:13+00:00",
-      "posted_at": "2026-07-04T05:48:20+00:00",
-      "url": "https://himalayas.app/companies/micro1/jobs/management-consultant-business-strategy-specialist",
-      "summary": "Role Title: Management Consultant / Business Strategy Specialist Role Type: Contractor Location: Remote micro1 is engaging Management Consultant / Business Strategy Specialists to contribute to a customer's strategic project initiative.",
-      "description": "Role Title: Management Consultant / Business Strategy Specialist Role Type: Contractor Location: Remote micro1 is engaging Management Consultant / Business Strategy Specialists to contribute to a customer's strategic project initiative. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required \u2014 your domain knowledge is what matters. This opportunity involves leveraging your background in management consulting and business strategy to develop recommendations, executive presentations, market analyses, and operational assessments. Success in this engagement depends on your ability to craft clear written and verbal communications, develop visually rich materials, and distill complex information for diverse audiences. Scope of Work Develop and review strategic recommendations based on client objectives and industry best practices Create executive-level presentations, slide decks, and business reports with compelling visualizations and data-driven insights Conduct market analyses and operational assessments, synthesizing findings into actionable frameworks Construct and interpret complex financial models, business cases, and scenario analyses Evaluate and critique business documents, providing structured feedback to enhance clarity and impact Design rubrics and scoring criteria from visual documents or presentations (e.g., PowerPoint decks) Summarize key insights in a manner that supports high-level decision-making and AI model training use cases Preferred Qualifications Demonstrated experience as a Management Consultant, Strategy Consultant, Corporate Strategy Manager, Business Consultant, Transformation Consultant, or Big 4 Consultant Exceptional written and verbal communication skills, with a focus on clarity, precision, and professionalism Proficiency in developing executive presentations, business reports, and visually engaging documents Advanced analytical and critical thinking abilities, including experience with market research and financial modeling Skilled in interpreting and summarizing complex information for non-technical and executive audiences Familiarity with creating rubrics, frameworks, or scoring guides from business materials Comfort working independently in a remote, collaborative project environment Originally posted on Himalayas",
-      "score": 45,
-      "keywords": [
-        "consultance",
-        "consultance/contract",
-        "suivi-evaluation-etudes"
-      ],
-      "is_remote": true,
-      "id": 301,
-      "status": "nouveau"
-    },
-    {
-      "title": "Mathematics Expert",
-      "organization": "micro1",
-      "source": "Himalayas",
-      "location": "Worldwide",
-      "remote_type": "remote",
-      "opportunity_type": "Full Time",
-      "track": "consultance",
-      "domain": "suivi-evaluation-etudes",
-      "deadline": "2026-08-03T01:45:26+00:00",
-      "posted_at": "2026-07-04T01:46:43+00:00",
-      "url": "https://himalayas.app/companies/micro1/jobs/mathematics-expert",
-      "summary": "Role Title: Mathematics Expert Role Type: Contractor Location: Remote micro1 is engaging Mathematics Experts to participate in a high-impact customer project.",
-      "description": "Role Title: Mathematics Expert Role Type: Contractor Location: Remote micro1 is engaging Mathematics Experts to participate in a high-impact customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required \u2014 your domain knowledge is what matters. Scope of Work Review, evaluate, and generate solutions to advanced mathematical problems spanning pure and applied mathematics. Develop detailed, well-structured explanations, proofs, or technical analyses for a range of mathematical concepts and topics. Assess the accuracy, clarity, and rigor of mathematical outputs produced by AI systems, providing actionable feedback for improvement. Create and annotate high-quality, domain-specific datasets to inform model training and benchmarking. Document technical methodologies and communicate complex ideas clearly in written and verbal formats. Collaborate with a remote team of subject matter experts across diverse mathematical disciplines. Preferred Qualifications BSc, MSc, or PhD in Mathematics, Applied Mathematics, or a closely related field. Demonstrated experience authoring research papers, mathematical proofs, or technical reports. Proficiency translating complex mathematical concepts for both technical and non-technical audiences. Strong written and verbal communication skills, with an emphasis on clarity and precision. Familiarity with current trends, open problems, or applications in mathematics and related fields. Experience reviewing or critiquing mathematical reasoning, logic, or computational solutions. Capability to work independently and manage deliverables in a fully remote engagement. Originally posted on Himalayas",
-      "score": 45,
-      "keywords": [
-        "consultance",
-        "consultance/contract",
-        "suivi-evaluation-etudes"
-      ],
-      "is_remote": true,
-      "id": 302,
+      "id": 298,
       "status": "nouveau"
     },
     {
@@ -7575,7 +7481,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 303,
+      "id": 299,
       "status": "nouveau"
     },
     {
@@ -7599,31 +7505,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 304,
-      "status": "nouveau"
-    },
-    {
-      "title": "Product Marketing Consultant (part-time)",
-      "organization": "Time Doctor",
-      "source": "Himalayas",
-      "location": "Worldwide",
-      "remote_type": "hybrid-remote",
-      "opportunity_type": "Contractor",
-      "track": "consultance",
-      "domain": "developpement-app",
-      "deadline": "2026-08-10T13:33:11+00:00",
-      "posted_at": "2026-06-11T13:33:13+00:00",
-      "url": "https://himalayas.app/companies/time-doctor/jobs/product-marketing-consultant-part-time",
-      "summary": "Product Marketing Consultant~10 hrs/week | Hourly rate | Remote, async-first The EngagementTime Doctor is a workforce analytics platform helping leaders understand how work actually happens across remote, hybrid, and in-office teams.",
-      "description": "Product Marketing Consultant ~10 hrs/week | Hourly rate | Remote, async-first The Engagement Time Doctor is a workforce analytics platform helping leaders understand how work actually happens across remote, hybrid, and in-office teams. We're looking for an experienced Product Marketing consultant for a flexible, project-based engagement. This is a combined strategic and execution role where you'll work closely with Product, Marketing, Sales, and Customer Success to translate product capabilities into clear market positioning and ensure new features are successfully launched, adopted, and understood by our target buyers. You should have strong product marketing fundamentals, a proven track record in B2B SaaS, and the ability to hit the ground running with minimal ramp time. What you'll work on GTM execution - launch messaging and cross-functional enablement for new features Positioning and messaging - web pages, persona narratives, use case content Competitive intelligence - battlecards, objection guides, category monitoring Sales and CS enablement - materials the team will actually use, refined from real deal data Tracking and measurement - defining and tracking the signals that show the product and GTM motion is working AI-powered PMM tooling - Build AI tools to help us maintain and scale PMM projects. You should already be using AI in your workflow and be comfortable building with it Requirements What we're looking for 5+ years B2B SaaS Product Marketing Management experience with full GTM ownership and execution, not just contribution Strong positioning and messaging execution. Your work lands close to right the first time Competitive intelligence capability. You can gather, synthesize, and frame insight into usable artifacts Exposure to workforce, HCM, or adjacent categories is a plus Metric tracking to show the GTM motion is working Prior consulting experience preferred. you can scope your own work and deliver with minimal oversight Engagement Details This is a flexible, project-based engagement suited to an experienced consultant. Work is async-first and remote. Hours and scope are negotiable depending on pipeline and priorities, with the expectation of consistent availability and delivery against agreed milestones. Interested? Apply directly or reach out to Jason Nottage at for more information. Originally posted on Himalayas",
-      "score": 45,
-      "keywords": [
-        "consultance",
-        "consultance/contract",
-        "developpement-app"
-      ],
-      "is_remote": true,
-      "id": 305,
+      "id": 300,
       "status": "nouveau"
     },
     {
@@ -7647,7 +7529,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 306,
+      "id": 301,
       "status": "nouveau"
     },
     {
@@ -7671,7 +7553,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 307,
+      "id": 302,
       "status": "nouveau"
     },
     {
@@ -7695,7 +7577,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 308,
+      "id": 303,
       "status": "nouveau"
     },
     {
@@ -7719,7 +7601,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 309,
+      "id": 304,
       "status": "nouveau"
     },
     {
@@ -7743,7 +7625,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 310,
+      "id": 305,
       "status": "nouveau"
     },
     {
@@ -7767,7 +7649,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 311,
+      "id": 306,
       "status": "nouveau"
     },
     {
@@ -7791,7 +7673,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 312,
+      "id": 307,
       "status": "nouveau"
     },
     {
@@ -7815,7 +7697,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 313,
+      "id": 308,
       "status": "nouveau"
     },
     {
@@ -7839,7 +7721,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 314,
+      "id": 309,
       "status": "nouveau"
     },
     {
@@ -7863,7 +7745,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 315,
+      "id": 310,
       "status": "nouveau"
     },
     {
@@ -7887,7 +7769,7 @@
         "consultance"
       ],
       "is_remote": true,
-      "id": 316,
+      "id": 311,
       "status": "nouveau"
     },
     {
@@ -7910,7 +7792,7 @@
         "looker"
       ],
       "is_remote": true,
-      "id": 317,
+      "id": 312,
       "status": "nouveau"
     },
     {
@@ -7934,7 +7816,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 318,
+      "id": 313,
       "status": "nouveau"
     },
     {
@@ -7958,7 +7840,7 @@
         "m&e"
       ],
       "is_remote": true,
-      "id": 319,
+      "id": 314,
       "status": "nouveau"
     },
     {
@@ -7982,7 +7864,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 320,
+      "id": 315,
       "status": "nouveau"
     },
     {
@@ -8006,7 +7888,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 321,
+      "id": 316,
       "status": "nouveau"
     },
     {
@@ -8030,7 +7912,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 322,
+      "id": 317,
       "status": "nouveau"
     },
     {
@@ -8054,7 +7936,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 323,
+      "id": 318,
       "status": "nouveau"
     },
     {
@@ -8078,7 +7960,7 @@
         "consultance/contract"
       ],
       "is_remote": true,
-      "id": 324,
+      "id": 319,
       "status": "nouveau"
     },
     {
@@ -8102,31 +7984,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 325,
-      "status": "nouveau"
-    },
-    {
-      "title": "Strategic Account Director - OEM Business at Affinitiv",
-      "organization": "",
-      "source": "JobsCollider",
-      "location": "Remote",
-      "remote_type": "remote",
-      "opportunity_type": "job",
-      "track": "consultance",
-      "domain": "communication",
-      "deadline": null,
-      "posted_at": "Sat, 01 Aug 2026 18:04:19 +0000",
-      "url": "https://remotefirstjobs.com/companies/affinitiv/jobs/strategic-account-director-oem-business-842931",
-      "summary": "Join our award-winning A-Team! Ready to produce exceptional results with exceptional people? Get in touch, we would love to get to know you. Affinitiv is the largest provider of end-to-end, data-driven marketing and software solutions exclusively focused on the automotive customer lifecycle. Backed by 20+ years of automotive and marketing expertis",
-      "description": "Join our award-winning A-Team! Ready to produce exceptional results with exceptional people? Get in touch, we would love to get to know you. Affinitiv is the largest provider of end-to-end, data-driven marketing and software solutions exclusively focused on the automotive customer lifecycle. Backed by 20+ years of automotive and marketing expertise, we pride ourselves on being the go-to experts in the industry. Not only do we work with over 6,500 dealerships and every major manufacturer in the country, we\u2019re well-versed in OEM standards and the intricacies of a dealership or group\u2019s local business. Position Summary The Strategic Account Director \u2013 OEM Business is responsible for developing, managing, and growing strategic relationships with automotive Original Equipment Manufacturers (OEMs). This senior-level role serves as a trusted advisor to OEM partners, aligning Affinitiv\u2019s marketing technology, customer engagement, CRM, digital marketing, and data-driven solutions with OEM business objectives to drive measurable results across the OEM and dealer network. The ideal candidate brings 10+ years of direct experience working with automotive OEMs and a deep understanding of the automotive retail ecosystem, including OEM corporate and regional/zone organizations, dealer networks, digital marketing programs, customer experience initiatives, and automotive technology providers. The successful candidate will combine extensive automotive industry expertise with consultative sales, executive relationship management, strategic planning, and business development capabilities. Familiarity with key automotive industry partners and platforms, including Shift Digital and J.D. Power, is highly valued. Key Responsibilities Strategic OEM Account Management Develop and execute comprehensive strategic account plans for assigned OEM partners. Build and maintain trusted relationships with executive and senior-level stakeholders across OEM corporate, regional, and field organizations. Serve as a senior strategic point of contact and trusted advisor for assigned OEM accounts. Maintain a deep understanding of each OEM\u2019s business objectives, retail strategies, dealer initiatives, customer experience priorities, and digital transformation efforts. Navigate complex OEM organizational structures and effectively engage multiple stakeholders and decision-makers. Drive customer satisfaction, retention, account growth, and long-term strategic partnership development. Business Development & Growth Identify and develop opportunities to expand Affinitiv solutions across existing and prospective OEM programs. Translate OEM business challenges into strategic solutions leveraging Affinitiv\u2019s marketing technology, CRM, customer engagement, data, and digital capabilities. Lead executive-level solution presentations, strategic planning sessions, business reviews, and program discussions. Develop proposals, business cases, pricing strategies, and contract renewal recommendations. Identify opportunities to expand programs across OEM dealer networks, regions, brands, and business units. Collaborate with leadership to achieve annual revenue, retention, and growth objectives. OEM Digital & Automotive Retail Strategy Provide strategic guidance regarding automotive digital retail, dealer marketing, CRM, customer lifecycle management, retention, and customer experience. Maintain a strong understanding of OEM digital marketing programs, dealer digital ecosystems, lead management, performance measurement, and vendor integration. Demonstrate familiarity with automotive industry platforms, data providers, and strategic partners, including Shift Digital and J.D. Power. Understand how OEM corporate initiatives translate into regional/zone and dealer-level execution. Apply industry benchmarks, market intelligence, and performance data to identify opportunities and develop strategic recommendations for OEM clients. Cross-Functional Leadership Partner with Product, Marketing, Operations, Customer Success, Analytics, Technology, and Implementation teams to deliver successful OEM programs. Coordinate internal resources to support OEM initiatives, program launches, integrations, and strategic priorities. Translate client objectives into clear internal requirements and action plans. Advocate for client needs while balancing Affinitiv\u2019s strategic, operational, and product priorities. Provide internal leadership and automotive industry perspective to help shape solutions for OEM clients. Executive Relationship Management Develop relationships across multiple levels of OEM organizations, including senior executives and key program stakeholders. Lead and facilitate Quarterly Business Reviews (QBRs), executive business reviews, and strategic planning sessions. Present performance metrics, industry insights, program results, and strategic recommendations to executive audiences. Build credibility as a strategic advisor through automotive industry expertise, business acumen, and consultative guidance. Proactively identify emerging client needs, risks, and opportunities. Industry Expertise Maintain deep knowledge of automotive retail, OEM strategy, dealer operations, digital marketing, CRM, customer experience, and emerging automotive technologies. Stay informed about changes in OEM digital programs, dealer marketing strategies, customer engagement models, and automotive technology. Monitor competitive activity, industry benchmarks, and market developments to identify strategic opportunities. Maintain awareness of major automotive data, technology, and digital ecosystem providers, including Shift Digital and J.D. Power. Represent Affinitiv at automotive industry conferences, OEM meetings, dealer meetings, and strategic partner events. Forecasting & Reporting Maintain accurate revenue forecasts, opportunity pipelines, and account plans within CRM. Track account revenue, program performance, account health, retention risks, and expansion opportunities. Develop executive-level reporting and business updates for Affinitiv leadership. Maintain clear visibility into upcoming OEM initiatives, renewals, RFPs, and potential growth opportunities. Qualifications Required Bachelor\u2019s degree in Business, Marketing, Communications, or a related field, or equivalent professional experience. 10+ years of professional experience working directly with automotive OEMs, including OEM account management, strategic partnerships, enterprise sales, digital marketing, automotive technology, consulting, or related disciplines. Demonstrated understanding of OEM corporate, regional/zone, and dealer network structures and operations. Proven experience developing and managing senior and executive-level OEM relationships. Demonstrated success managing large, complex automotive accounts and multi-stakeholder engagements. Strong understanding of automotive retail, dealer operations, digital marketing, CRM, customer engagement, and performance measurement. Experience developing and presenting strategic recommendations, business reviews, and performance results to executive audiences. Proven ability to navigate complex sales cycles, contract negotiations, renewals, and enterprise-level business development opportunities. Excellent communication, presentation, negotiation, and executive relationship-management skills. Ability to travel approximately 30\u201350%. Preferred Experience developing, managing, or supporting OEM-sponsored dealer marketing, digital, CRM, customer engagement, or retention programs. Direct experience working with OEM corporate and regional/zone teams. Familiarity with Shift Digital, including its role within OEM and dealer digital marketing programs and ecosystems. Familiarity with J.D. Power, including automotive data, analytics, consumer insights, and industry benchmarking. Experience working with other automotive technology, data, digital marketing, or customer experience platforms. Experience with Salesforce or similar enterprise CRM platforms. Experience with SaaS, marketing technology, data-driven marketing, or automotive technology solutions. Core Competencies Executive Presence Automotive OEM Expertise Strategic Thinking Consultative Selling Executive Relationship Management Customer-Centric Leadership Business Acumen Communication & Presentation Negotiation & Influence Cross-Functional Leadership Strategic Account Planning Data-Driven Decision Making Problem Solving Revenue Growth & Business Development Success Measures During the first 12 months, the Strategic Account Director will: Establish strong, credible relationships with key stakeholders across assigned OEM accounts. Develop comprehensive strategic account plans identifying priorities, risks, stakeholders, and growth opportunities. Grow assigned OEM account revenue and achieve or exceed annual sales and retention targets. Maintain high levels of customer satisfaction and executive engagement. Successfully lead executive business reviews and Quarterly Business Reviews. Identify and develop new OEM program and expansion opportunities. Expand Affinitiv\u2019s footprint across existing OEM relationships and dealer networks. Deliver strategic recommendations supported by performance data, automotive industry insights, and market intelligence. Strengthen cross-functional collaboration to deliver exceptional OEM and dealer outcomes. Work from Here At Affinitiv, we have the best of both worlds. Our team members have embraced remote work and our Work from Here program allows for remote working and the utmost flexibility while keeping in person collaborating thriving in a safe work environment. Our Work from Here approach gives team members a choice to work on campus or remote, leaders can hold in person or virtual team meetings to collaborate and cultivate relationships. Affinitiv knows you have interests outside of work, which is why we offer a comprehensive benefits package that includes medical, dental, vision and 401K effective day 1 just to name a few. We also offer generous PTO so you can enjoy off time with family and friends. At Affinitiv, we celebrate diversity, equality, and an inclusive environment. Affinitiv is committed to providing an environment of mutual respect where equal employment opportunities are extended to all employees and applicants for employment. We prohibit discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. All aspects of employment are decided on the basis of qualifications, competence, merit, and business needs. Affinitiv is proud to be an equal opportunity employer.",
-      "score": 45,
-      "keywords": [
-        "communication",
-        "consultance",
-        "consultance/contract"
-      ],
-      "is_remote": true,
-      "id": 326,
+      "id": 320,
       "status": "nouveau"
     },
     {
@@ -8150,7 +8008,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 327,
+      "id": 321,
       "status": "nouveau"
     },
     {
@@ -8173,7 +8031,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 328,
+      "id": 322,
       "status": "nouveau"
     },
     {
@@ -8196,30 +8054,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 329,
-      "status": "nouveau"
-    },
-    {
-      "title": "Executive Marketing Program Coordinator at ADC Dev",
-      "organization": "",
-      "source": "JobsCollider",
-      "location": "Remote",
-      "remote_type": "remote",
-      "opportunity_type": "job",
-      "track": "emploi-data",
-      "domain": "communication",
-      "deadline": null,
-      "posted_at": "Sat, 01 Aug 2026 18:37:28 +0000",
-      "url": "https://remotefirstjobs.com/companies/accuweather/jobs/executive-marketing-program-coordinator-842934",
-      "summary": "AccuWeather is expanding its Marketing team and looking an Executive Marketing Program Coordinator to join the growing team. The Executive Marketing Program Coordinator supports AccuWeather\u2019s executive engagement programs by coordinating executive research, communications, CRM execution, meeting logistics, relationship tracking, and program reporti",
-      "description": "AccuWeather is expanding its Marketing team and looking an Executive Marketing Program Coordinator to join the growing team. The Executive Marketing Program Coordinator supports AccuWeather\u2019s executive engagement programs by coordinating executive research, communications, CRM execution, meeting logistics, relationship tracking, and program reporting. This role partners closely with Marketing, Sales, Business Development, Executive Leadership, and Revenue Operations to help ensure executive engagement programs operate efficiently, consistently, and at scale. The ideal candidate is highly organized, detail-oriented, and enjoys bringing structure to complex programs. This individual is comfortable managing multiple priorities, leveraging AI to improve productivity, and supporting executive initiatives from planning through execution. KEY RESPONSIBILITIES Executive Research & Intelligence Research executive priorities, company initiatives, strategic investments, and organizational structures. Develop executive briefing materials to prepare leadership for meetings and outreach. Maintain executive profiles, buying centers, and relationship history within CRM. Support account research and executive engagement planning. Executive Program Coordination Coordinate executive communication campaigns and follow-up activities. Manage executive engagement workflows, timelines, and program execution. Track responses, meetings, action items, and relationship progression. Support conference outreach, executive events, customer meetings, and strategic engagement programs. CRM & Program Operations Maintain executive contacts, account relationships, and engagement history within HubSpot. Coordinate CRM updates, reporting, and executive program dashboards. Partner with Revenue Operations to ensure accurate tracking and reporting. Support ongoing improvements to executive engagement workflows. AI & Productivity Leverage AI tools to accelerate executive research, meeting preparation, content development, summaries, and follow-up. Identify opportunities to improve executive programs through automation and AI-enabled workflows. Support adoption of AI tools across executive engagement activities. Cross-Functional Coordination Partner with Sales, Business Development, Product Marketing, Revenue Operations, Customer Success, and Executive Leadership. Coordinate cross-functional activities supporting executive engagement. Help ensure smooth transitions from executive meetings into sales and business development follow-up. QUALIFICATIONS Bachelor\u2019s degree in Marketing, Communications, Business, Project Management, or related field. 2\u20135 years of experience in marketing, sales support, executive support, project management, customer success, or related field. Strong organizational and project management skills. Excellent written communication and editing skills. Experience working with CRM platforms such as HubSpot. Comfortable using AI tools to improve productivity and workflow efficiency. Ability to manage multiple projects and competing priorities with exceptional attention to detail. Preferred Qualifications: Experience supporting executive-level programs, events, or communications. Experience with CRM reporting and marketing automation platforms. Familiarity with sales and marketing workflows. Experience coordinating conferences, executive briefings, or customer engagement programs. Interest in AI-enabled productivity tools and workflow automation. About AccuWeather AccuWeather, recognized and documented as the most accurate and most used source of weather forecasts and warnings in the world, has saved over 12,000 lives, prevented injury to over 100,000 people, and saved companies tens of billions of dollars through better planning and decision-making. Billions of people around the world rely on AccuWeather\u2019s proven Superior Accuracy\u2122 across our consumer digital platforms. AccuWeather.com is the #1 weather destination and one of the top 100 most-visited websites in the world, and our award-winning AccuWeather app delivers detailed real-time forecasts to millions of smartphones. AccuWeather forecasts also appear on digital signage, in 700 newspapers, are heard on over 400 radio stations, and viewed on 100 television stations. The AccuWeather Network and AccuWeather NOW\u00ae reach an audience of over 125 million on cable and streaming platforms including DirecTV, Charter Communications - Spectrum, Verizon, Philo, Frndly TV, Comcast\u2019s Xfinity X1 and Xfinity Stream, Roku, Xumo, Rockbot, LG, and Amazon Freevee. AccuWeather For Business serves more than half of the Fortune 500 companies and thousands of other businesses and government agencies globally. Dr. Joel Myers, Founder and Executive Chairman, established AccuWeather in 1962 and is considered the \u201cfather of modern commercial meteorology.\u201d Myers, a leading creative thinker and visionary, has been called \u201cthe most accurate man in weather\u201d by The New York Times and has been recognized as one of the top entrepreneurs in American history by Entrepreneur\u2019s Encyclopedia of Entrepreneurs. Commitment to Diversity & Inclusion AccuWeather is proud to be an Equal Opportunity/Affirmative Action Employer. We are committed to equal employment opportunity to all applicants and existing employees and we evaluate qualified applicants without regard to race, creed, color, national origin, sex (including pregnancy and gender identity/expression), sexual orientation, age, ancestry, physical or mental disability, marital status, political affiliation, religion, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law. AccuWeather is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to human.resources@accuweather.com and let us know the nature of your request and your contact information.",
-      "score": 44,
-      "keywords": [
-        "dashboard",
-        "gis"
-      ],
-      "is_remote": true,
-      "id": 330,
+      "id": 323,
       "status": "nouveau"
     },
     {
@@ -8242,7 +8077,7 @@
         "sql"
       ],
       "is_remote": true,
-      "id": 331,
+      "id": 324,
       "status": "nouveau"
     },
     {
@@ -8266,7 +8101,7 @@
         "survey"
       ],
       "is_remote": true,
-      "id": 332,
+      "id": 325,
       "status": "nouveau"
     },
     {
@@ -8289,7 +8124,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 333,
+      "id": 326,
       "status": "nouveau"
     },
     {
@@ -8313,7 +8148,7 @@
         "grafana"
       ],
       "is_remote": true,
-      "id": 334,
+      "id": 327,
       "status": "nouveau"
     },
     {
@@ -8337,7 +8172,7 @@
         "grafana"
       ],
       "is_remote": true,
-      "id": 335,
+      "id": 328,
       "status": "nouveau"
     },
     {
@@ -8361,7 +8196,7 @@
         "grafana"
       ],
       "is_remote": true,
-      "id": 336,
+      "id": 329,
       "status": "nouveau"
     },
     {
@@ -8383,7 +8218,7 @@
         "power bi"
       ],
       "is_remote": true,
-      "id": 337,
+      "id": 330,
       "status": "nouveau"
     },
     {
@@ -8407,7 +8242,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 338,
+      "id": 331,
       "status": "nouveau"
     },
     {
@@ -8429,7 +8264,7 @@
         "power bi"
       ],
       "is_remote": true,
-      "id": 339,
+      "id": 332,
       "status": "nouveau"
     },
     {
@@ -8453,7 +8288,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 340,
+      "id": 333,
       "status": "nouveau"
     },
     {
@@ -8477,7 +8312,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 341,
+      "id": 334,
       "status": "nouveau"
     },
     {
@@ -8501,7 +8336,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 342,
+      "id": 335,
       "status": "nouveau"
     },
     {
@@ -8525,7 +8360,7 @@
         "gis"
       ],
       "is_remote": true,
-      "id": 343,
+      "id": 336,
       "status": "nouveau"
     },
     {
@@ -8547,7 +8382,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 344,
+      "id": 337,
       "status": "nouveau"
     },
     {
@@ -8569,7 +8404,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 345,
+      "id": 338,
       "status": "nouveau"
     },
     {
@@ -8591,7 +8426,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 346,
+      "id": 339,
       "status": "nouveau"
     },
     {
@@ -8613,7 +8448,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 347,
+      "id": 340,
       "status": "nouveau"
     },
     {
@@ -8635,7 +8470,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 348,
+      "id": 341,
       "status": "nouveau"
     },
     {
@@ -8657,7 +8492,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 349,
+      "id": 342,
       "status": "nouveau"
     },
     {
@@ -8679,7 +8514,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 350,
+      "id": 343,
       "status": "nouveau"
     },
     {
@@ -8702,7 +8537,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 351,
+      "id": 344,
       "status": "nouveau"
     },
     {
@@ -8725,7 +8560,7 @@
         "tableau"
       ],
       "is_remote": true,
-      "id": 352,
+      "id": 345,
       "status": "nouveau"
     },
     {
@@ -8747,7 +8582,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 353,
+      "id": 346,
       "status": "nouveau"
     },
     {
@@ -8769,7 +8604,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 354,
+      "id": 347,
       "status": "nouveau"
     },
     {
@@ -8791,7 +8626,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 355,
+      "id": 348,
       "status": "nouveau"
     },
     {
@@ -8813,7 +8648,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 356,
+      "id": 349,
       "status": "nouveau"
     },
     {
@@ -8835,7 +8670,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 357,
+      "id": 350,
       "status": "nouveau"
     },
     {
@@ -8857,7 +8692,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 358,
+      "id": 351,
       "status": "nouveau"
     },
     {
@@ -8879,7 +8714,7 @@
         "dashboard"
       ],
       "is_remote": true,
-      "id": 359,
+      "id": 352,
       "status": "nouveau"
     },
     {
@@ -8902,7 +8737,7 @@
         "python"
       ],
       "is_remote": true,
-      "id": 360,
+      "id": 353,
       "status": "nouveau"
     },
     {
@@ -8925,7 +8760,7 @@
         "grafana"
       ],
       "is_remote": true,
-      "id": 361,
+      "id": 354,
       "status": "nouveau"
     },
     {
@@ -8948,7 +8783,7 @@
         "grafana"
       ],
       "is_remote": true,
-      "id": 362,
+      "id": 355,
       "status": "nouveau"
     },
     {
@@ -8971,7 +8806,7 @@
         "looker"
       ],
       "is_remote": true,
-      "id": 363,
+      "id": 356,
       "status": "nouveau"
     },
     {
@@ -8994,7 +8829,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 364,
+      "id": 357,
       "status": "nouveau"
     },
     {
@@ -9017,7 +8852,7 @@
         "consultance"
       ],
       "is_remote": true,
-      "id": 365,
+      "id": 358,
       "status": "nouveau"
     },
     {
@@ -9039,29 +8874,7 @@
         "data analyst"
       ],
       "is_remote": true,
-      "id": 366,
-      "status": "nouveau"
-    },
-    {
-      "title": "Online Data Analyst - Kannada (IN)",
-      "organization": "TELUS Digital",
-      "source": "Himalayas",
-      "location": "Worldwide",
-      "remote_type": "remote",
-      "opportunity_type": "Part Time",
-      "track": "emploi-data",
-      "domain": "data-bi",
-      "deadline": "2026-08-09T07:05:19+00:00",
-      "posted_at": "2026-07-12T21:17:29+00:00",
-      "url": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-kannada-in-7424666150",
-      "summary": "\u0c89\u0ca6\u0ccd\u0caf\u0ccb\u0c97 \u0cb5\u0cbf\u0cb5\u0cb0\u0ca3\u0cc6 \u0ca8\u0cc0\u0cb5\u0cc1 \u0cb5\u0cbf\u0cb5\u0cb0\u0c97\u0cb3\u0cbf\u0c97\u0cc6 \u0c9c\u0ccd\u0c9e\u0cbe\u0ca8 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb0\u0cc1\u0cb5 \u0cb5\u0ccd\u0caf\u0c95\u0ccd\u0ca4\u0cbf\u0caf\u0cc7, \u0cb8\u0c82\u0cb6\u0ccb\u0ca7\u0ca8\u0cc6\u0caf \u0caa\u0ccd\u0cb0\u0ca4\u0cbf \u0c85\u0c97\u0cbe\u0ca7 \u0c86\u0cb8\u0c95\u0ccd\u0ca4\u0cbf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb0\u0cbe\u0cb7\u0ccd\u0c9f\u0ccd\u0cb0\u0cc0\u0caf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb8\u0ccd\u0ca5\u0cb3\u0cc0\u0caf \u0cad\u0ccc\u0c97\u0ccb\u0cb3\u0cbf\u0c95\u0ca4\u0cc6\u0caf \u0c89\u0ca4\u0ccd\u0ca4\u0cae \u0c85\u0cb0\u0ccd\u0ca5\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0ca6\u0ccd\u0ca6\u0cc0\u0cb0\u0cbf?",
-      "description": "\u0c89\u0ca6\u0ccd\u0caf\u0ccb\u0c97 \u0cb5\u0cbf\u0cb5\u0cb0\u0ca3\u0cc6 \u0ca8\u0cc0\u0cb5\u0cc1 \u0cb5\u0cbf\u0cb5\u0cb0\u0c97\u0cb3\u0cbf\u0c97\u0cc6 \u0c9c\u0ccd\u0c9e\u0cbe\u0ca8 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb0\u0cc1\u0cb5 \u0cb5\u0ccd\u0caf\u0c95\u0ccd\u0ca4\u0cbf\u0caf\u0cc7, \u0cb8\u0c82\u0cb6\u0ccb\u0ca7\u0ca8\u0cc6\u0caf \u0caa\u0ccd\u0cb0\u0ca4\u0cbf \u0c85\u0c97\u0cbe\u0ca7 \u0c86\u0cb8\u0c95\u0ccd\u0ca4\u0cbf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb0\u0cbe\u0cb7\u0ccd\u0c9f\u0ccd\u0cb0\u0cc0\u0caf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb8\u0ccd\u0ca5\u0cb3\u0cc0\u0caf \u0cad\u0ccc\u0c97\u0ccb\u0cb3\u0cbf\u0c95\u0ca4\u0cc6\u0caf \u0c89\u0ca4\u0ccd\u0ca4\u0cae \u0c85\u0cb0\u0ccd\u0ca5\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0ca6\u0ccd\u0ca6\u0cc0\u0cb0\u0cbf? \u0c88 \u0cab\u0ccd\u0cb0\u0cc0\u0cb2\u0ccd\u0caf\u0cbe\u0ca8\u0ccd\u0cb8\u0ccd \u0c85\u0cb5\u0c95\u0cbe\u0cb6\u0cb5\u0cc1 \u0ca8\u0cbf\u0cae\u0ccd\u0cae\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cae\u0ccd\u0cae \u0cb8\u0ccd\u0cb5\u0c82\u0ca4 \u0cb5\u0cc7\u0c97\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0ca8\u0cbf\u0cae\u0ccd\u0cae \u0c98\u0cb0\u0ca6 \u0cb8\u0cc1\u0cb5\u0cbf\u0ca7\u0cc6\u0caf\u0cbf\u0c82\u0ca6 \u0c95\u0cc6\u0cb2\u0cb8 \u0cae\u0cbe\u0ca1\u0cb2\u0cc1 \u0c85\u0ca8\u0cc1\u0cae\u0ca4\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0c86\u0ca8\u0ccd\u200c\u0cb2\u0cc8\u0ca8\u0ccd \u0ca1\u0cc7\u0c9f\u0cbe \u0cb5\u0cbf\u0cb6\u0ccd\u0cb2\u0cc7\u0cb7\u0c95\u0ca8 \u0c9c\u0cc0\u0cb5\u0ca8\u0ca6 \u0c92\u0c82\u0ca6\u0cc1 \u0ca6\u0cbf\u0ca8: \u0c88 \u0caa\u0cbe\u0ca4\u0ccd\u0cb0\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf, \u0ca8\u0cc0\u0cb5\u0cc1 \u0cb5\u0cbf\u0cb6\u0ccd\u0cb5\u0cbe\u0ca6\u0ccd\u0caf\u0c82\u0ca4 \u0cb2\u0c95\u0ccd\u0cb7\u0cb2\u0c95\u0ccd\u0cb7 \u0c9c\u0ca8\u0cb0\u0cc1 \u0cac\u0cb3\u0cb8\u0cc1\u0cb5 \u0ca1\u0cbf\u0c9c\u0cbf\u0c9f\u0cb2\u0ccd \u0ca8\u0c95\u0ccd\u0cb7\u0cc6\u0c97\u0cb3 \u0cb5\u0cbf\u0cb7\u0caf\u0cb5\u0cb8\u0ccd\u0ca4\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c97\u0cc1\u0ca3\u0cae\u0cbe\u0ca8\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb8\u0cc1\u0ca7\u0cbe\u0cb0\u0cbf\u0cb8\u0cc1\u0cb5 \u0c97\u0cc1\u0cb0\u0cbf\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb9\u0cca\u0c82\u0ca6\u0cbf\u0cb0\u0cc1\u0cb5 \u0caa\u0ccd\u0cb0\u0cbe\u0c9c\u0cc6\u0c95\u0ccd\u0c9f\u0ccd\u200c\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0c95\u0cc6\u0cb2\u0cb8 \u0cae\u0cbe\u0ca1\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0cb0\u0cc1\u0cb5\u0cbf\u0cb0\u0cbf. \u0cb5\u0cc6\u0cac\u0ccd-\u0c86\u0ca7\u0cbe\u0cb0\u0cbf\u0ca4 \u0caa\u0cb0\u0cbf\u0cb8\u0cb0\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0ca1\u0cc7\u0c9f\u0cbe \u0caa\u0cb0\u0cbf\u0cb6\u0cc0\u0cb2\u0ca8\u0cc6 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0ca4\u0cc1\u0cb2\u0ca8\u0cc6 \u0cae\u0cbe\u0ca1\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cae\u0cbe\u0cb9\u0cbf\u0ca4\u0cbf\u0caf \u0caa\u0ccd\u0cb0\u0cbe\u0cb8\u0c82\u0c97\u0cbf\u0c95\u0ca4\u0cc6 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0ca8\u0cbf\u0c96\u0cc1\u0cb0\u0ca4\u0cc6 \u0ca8\u0cbf\u0cb0\u0ccd\u0ca7\u0cb0\u0cbf\u0cb8\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1\u0cb9\u0cc0\u0c97\u0cbf\u0ca8 \u0cb8\u0c82\u0cb6\u0ccb\u0ca7\u0ca8\u0cc6 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cae\u0ccc\u0cb2\u0ccd\u0caf\u0cae\u0cbe\u0caa\u0ca8 \u0c95\u0cbe\u0cb0\u0ccd\u0caf\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0c97\u0cca\u0cb3\u0cbf\u0cb8\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1. \u0c87\u0c82\u0ca6\u0cc1 \u0ca8\u0cae\u0ccd\u0cae\u0cca\u0c82\u0ca6\u0cbf\u0c97\u0cc6 \u0cb8\u0cc7\u0cb0\u0cbf\u0c95\u0cca\u0cb3\u0ccd\u0cb3\u0cbf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb5\u0cbf\u0cb6\u0ccd\u0cb5\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cac\u0ca6\u0cb2\u0cbe\u0cb5\u0ca3\u0cc6 \u0c86\u0ca8\u0cc1\u0cb5\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0cb0\u0cc1\u0cb5 \u0c95\u0ccd\u0cb0\u0cbf\u0caf\u0cbe\u0cb6\u0cc0\u0cb2 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c89\u0ca6\u0ccd\u0cad\u0cbe\u0cb5\u0ca8\u0cc0 \u0cb9\u0cc3\u0ca6\u0caf\u0ca6 \u0cad\u0cbe\u0c97\u0cb5\u0cbe\u0c97\u0cbf\u0cb0\u0cbf! TELUS Digital AI Community \u0ca8\u0cae\u0ccd\u0cae \u0c9c\u0cbe\u0c97\u0ca4\u0cbf\u0c95 \u0c8e\u0c90 \u0cb8\u0cae\u0cc1\u0ca6\u0cbe\u0caf\u0cb5\u0cc1 \u0cb5\u0cc8\u0cb5\u0cbf\u0ca7\u0ccd\u0caf\u0cae\u0caf \u0cb9\u0cbf\u0ca8\u0ccd\u0ca8\u0cc6\u0cb2\u0cc6\u0caf\u0cbf\u0c82\u0ca6 1 \u0cae\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd\u200c\u0c97\u0cbf\u0c82\u0ca4 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca8 \u0c85\u0cb5\u0ca6\u0cbe\u0ca8\u0c95\u0cbe\u0cb0\u0cb0 \u0c8e\u0c82\u0ca6\u0cc1 \u0c95\u0cc7\u0c82\u0ca6\u0ccd\u0cb0\u0cc0\u0c95\u0cc3\u0ca4 \u0ca8\u0cc6\u0c9f\u0ccd\u200c\u0cb5\u0cb0\u0ccd\u0c95\u0ccd \u0c86\u0c97\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0c85\u0cb5\u0cb0\u0cc1 \u0ca8\u0cae\u0ccd\u0cae \u0c97\u0ccd\u0cb0\u0cbe\u0cb9\u0c95\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb5\u0cbf\u0cb7\u0caf\u0cb5\u0cb8\u0ccd\u0ca4\u0cc1\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb8\u0c82\u0c97\u0ccd\u0cb0\u0cb9\u0cbf\u0cb8\u0cb2\u0cc1, \u0cb5\u0cb0\u0ccd\u0ca7\u0cbf\u0cb8\u0cb2\u0cc1, \u0ca4\u0cb0\u0cac\u0cc7\u0ca4\u0cbf \u0ca8\u0cc0\u0ca1\u0cb2\u0cc1, \u0c85\u0ca8\u0cc1\u0cb5\u0cbe\u0ca6 \u0cae\u0cbe\u0ca1\u0cb2\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb8\u0ccd\u0ca5\u0cb3\u0cc0\u0caf\u0c97\u0cca\u0cb3\u0cbf\u0cb8\u0cb2\u0cc1 \u0cb8\u0cb9\u0cbe\u0caf \u0cae\u0cbe\u0ca1\u0cc1\u0ca4\u0ccd\u0ca4\u0cbe\u0cb0\u0cc6 \u0c87\u0ca6\u0cb0\u0cbf\u0c82\u0ca6 \u0c89\u0ca4\u0ccd\u0ca4\u0cae \u0c8e\u0c90 \u0cae\u0cbe\u0ca6\u0cb0\u0cbf\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0cae\u0cbf\u0cb8\u0cac\u0cb9\u0cc1\u0ca6\u0cc1. \u0ca8\u0cae\u0ccd\u0cae \u0cac\u0cc6\u0cb3\u0cc6\u0caf\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0cb0\u0cc1\u0cb5 \u0cb8\u0cae\u0cc1\u0ca6\u0cbe\u0caf\u0ca6 \u0cad\u0cbe\u0c97\u0cb5\u0cbe\u0c97\u0cbf\u0cb0\u0cbf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb5\u0cbf\u0cb6\u0ccd\u0cb5\u0ca6 \u0c95\u0cc6\u0cb2\u0cb5\u0cca\u0cae\u0ccd\u0cae\u0cc6 \u0ca6\u0cca\u0ca1\u0ccd\u0ca1 \u0cac\u0ccd\u0cb0\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd\u200c\u0c97\u0cb3 \u0caf\u0c82\u0ca4\u0ccd\u0cb0 \u0c95\u0cb2\u0ca8\u0cc6 \u0cae\u0cbe\u0ca6\u0cb0\u0cbf\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cac\u0cc6\u0c82\u0cac\u0cb2\u0cbf\u0cb8\u0cc1\u0cb5\u0cb2\u0ccd\u0cb2\u0cbf \u0caa\u0ccd\u0cb0\u0cad\u0cbe\u0cb5 \u0cac\u0cc0\u0cb0\u0cbf. \u0caf\u0ccb\u0c97\u0ccd\u0caf\u0ca4\u0cc6 \u0cb9\u0cbe\u0ca6\u0cbf \u0c88 \u0caa\u0cbe\u0ca4\u0ccd\u0cb0\u0c95\u0ccd\u0c95\u0cc6 \u0c85\u0cb0\u0ccd\u0c9c\u0cbf \u0cb8\u0cb2\u0ccd\u0cb2\u0cbf\u0cb8\u0cb2\u0cc1 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cb9\u0cbf\u0c82\u0ca6\u0cbf\u0ca8 \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4\u0cbf\u0cae\u0cbe\u0ca8 \u0c85\u0ca8\u0cc1\u0cad\u0cb5\u0ca6 \u0c85\u0c97\u0ca4\u0ccd\u0caf\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2, \u0c86\u0ca6\u0cbe\u0c97\u0ccd\u0caf\u0cc2 \u0c88 \u0caa\u0ccd\u0cb0\u0cbe\u0c9c\u0cc6\u0c95\u0ccd\u0c9f\u0ccd\u200c\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0c95\u0cc6\u0cb2\u0cb8 \u0cae\u0cbe\u0ca1\u0cb2\u0cc1 \u0ca8\u0cc0\u0cb5\u0cc1 \u0cae\u0cc2\u0cb2\u0cad\u0cc2\u0ca4 \u0c85\u0cb5\u0cb6\u0ccd\u0caf\u0c95\u0ca4\u0cc6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0cc2\u0cb0\u0cc8\u0cb8\u0cac\u0cc7\u0c95\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3\u0cbf\u0ca4 \u0cae\u0cc2\u0cb2\u0ccd\u0caf\u0cae\u0cbe\u0caa\u0ca8 \u0caa\u0ccd\u0cb0\u0c95\u0ccd\u0cb0\u0cbf\u0caf\u0cc6\u0caf \u0cae\u0cc2\u0cb2\u0c95 \u0cb9\u0ccb\u0c97\u0cac\u0cc7\u0c95\u0cc1. \u0c87\u0ca6\u0cc1 \u0c92\u0c82\u0ca6\u0cc1 \u0c85\u0cb0\u0ccd\u0ca7-\u0cb8\u0cae\u0caf\u0ca6 \u0ca6\u0cc0\u0cb0\u0ccd\u0c98\u0cbe\u0cb5\u0ca7\u0cbf\u0caf \u0caa\u0ccd\u0cb0\u0cbe\u0c9c\u0cc6\u0c95\u0ccd\u0c9f\u0ccd \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0ca8\u0cbf\u0cae\u0ccd\u0cae \u0c95\u0cc6\u0cb2\u0cb8\u0cb5\u0cc1 \u0c88 \u0c92\u0caa\u0ccd\u0caa\u0c82\u0ca6\u0ca6 \u0c85\u0cb5\u0ca7\u0cbf\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0ca8\u0cae\u0ccd\u0cae \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3\u0cbf\u0ca4 \u0c97\u0cc1\u0ca3\u0cae\u0c9f\u0ccd\u0c9f \u0c96\u0c9a\u0cbf\u0ca4 \u0caa\u0cb0\u0cbf\u0cb6\u0cc0\u0cb2\u0ca8\u0cc6\u0c97\u0cb3\u0cbf\u0c97\u0cc6 \u0c92\u0cb3\u0caa\u0c9f\u0ccd\u0c9f\u0cbf\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0cae\u0cc2\u0cb2\u0cad\u0cc2\u0ca4 \u0c85\u0cb5\u0cb6\u0ccd\u0caf\u0c95\u0ca4\u0cc6\u0c97\u0cb3\u0cc1 \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c87\u0c82\u0c97\u0ccd\u0cb0\u0c9c\u0cbf \u0cad\u0cbe\u0cb7\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0cb8\u0c82\u0caa\u0cc2\u0cb0\u0ccd\u0ca3 \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4\u0cbf\u0cae\u0cbe\u0ca8 \u0ca8\u0cbf\u0caa\u0cc1\u0ca3\u0ca4\u0cc6 \u0c95\u0cb3\u0cc6\u0ca6 5 \u0cb5\u0cb0\u0ccd\u0cb7\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0cad\u0cbe\u0cb0\u0ca4\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0ca8\u0cbf\u0cb5\u0cbe\u0cb8\u0cbf \u0c86\u0c97\u0cbf\u0cb0\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cad\u0cbe\u0cb0\u0ca4\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0caa\u0ccd\u0cb0\u0cb8\u0ccd\u0ca4\u0cc1\u0ca4 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c90\u0ca4\u0cbf\u0cb9\u0cbe\u0cb8\u0cbf\u0c95 \u0cb5\u0ccd\u0caf\u0cb5\u0cb9\u0cbe\u0cb0, \u0cae\u0cbe\u0ca7\u0ccd\u0caf\u0cae, \u0c95\u0ccd\u0cb0\u0cc0\u0ca1\u0cc6, \u0cb8\u0cc1\u0ca6\u0ccd\u0ca6\u0cbf, \u0cb8\u0ccb\u0cb6\u0ccd\u0caf\u0cb2\u0ccd \u0cae\u0cc0\u0ca1\u0cbf\u0caf\u0cbe \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb8\u0cbe\u0c82\u0cb8\u0ccd\u0c95\u0cc3\u0ca4\u0cbf\u0c95 \u0cb5\u0ccd\u0caf\u0cb5\u0cb9\u0cbe\u0cb0\u0c97\u0cb3\u0cbf\u0c97\u0cc6 \u0caa\u0cb0\u0cbf\u0c9a\u0caf\u0cb5\u0cbf\u0cb0\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0cae\u0cbe\u0cb0\u0ccd\u0c97\u0ca8\u0cbf\u0cb0\u0ccd\u0ca6\u0cc7\u0cb6\u0ca8\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c85\u0ca8\u0cc1\u0cb8\u0cb0\u0cbf\u0cb8\u0cb2\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb8\u0cb0\u0ccd\u0c9a\u0ccd \u0c87\u0c82\u0c9c\u0cbf\u0ca8\u0ccd\u200c\u0c97\u0cb3\u0cc1, \u0c86\u0ca8\u0ccd\u200c\u0cb2\u0cc8\u0ca8\u0ccd \u0ca8\u0c95\u0ccd\u0cb7\u0cc6\u0c97\u0cb3\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb5\u0cc6\u0cac\u0ccd\u200c\u0cb8\u0cc8\u0c9f\u0ccd \u0cae\u0cbe\u0cb9\u0cbf\u0ca4\u0cbf \u0cac\u0cb3\u0cb8\u0cbf \u0c86\u0ca8\u0ccd\u200c\u0cb2\u0cc8\u0ca8\u0ccd \u0cb8\u0c82\u0cb6\u0ccb\u0ca7\u0ca8\u0cc6 \u0ca8\u0ca1\u0cc6\u0cb8\u0cb2\u0cc1 \u0cb8\u0cbe\u0cae\u0cb0\u0ccd\u0ca5\u0ccd\u0caf \u0ca8\u0c95\u0ccd\u0cb7\u0cc6\u0c97\u0cb3\u0cc1, \u0cb8\u0cc1\u0ca6\u0ccd\u0ca6\u0cbf, \u0c86\u0ca1\u0cbf\u0caf\u0ccb \u0c95\u0cbe\u0cb0\u0ccd\u0caf\u0c97\u0cb3\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0caa\u0ccd\u0cb0\u0cb8\u0ccd\u0ca4\u0cc1\u0ca4\u0ca4\u0cc6 \u0cb8\u0cb9 \u0cb5\u0cc8\u0cb5\u0cbf\u0ca7\u0ccd\u0caf\u0cae\u0caf \u0c95\u0cbe\u0cb0\u0ccd\u0caf \u0caa\u0ccd\u0cb0\u0c95\u0cbe\u0cb0\u0c97\u0cb3\u0cbe\u0ca6\u0ccd\u0caf\u0c82\u0ca4 \u0c95\u0cc6\u0cb2\u0cb8 \u0cae\u0cbe\u0ca1\u0cb2\u0cc1 \u0ca8\u0cae\u0ccd\u0caf\u0ca4\u0cc6 \u0cac\u0ccd\u0cb0\u0cbe\u0ca1\u0ccd\u200c\u0cac\u0ccd\u09af\u0cbe\u0c82\u0ca1\u0ccd \u0c87\u0c82\u0c9f\u0cb0\u0ccd\u0ca8\u0cc6\u0c9f\u0ccd \u0cb8\u0c82\u0caa\u0cb0\u0ccd\u0c95, \u0c95\u0c82\u0caa\u0ccd\u0caf\u0cc2\u0c9f\u0cb0\u0ccd \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb8\u0c82\u0cac\u0c82\u0ca7\u0cbf\u0ca4 \u0cb8\u0cbe\u0cab\u0ccd\u0c9f\u0ccd\u200c\u0cb5\u0cc7\u0cb0\u0ccd\u200c\u0c97\u0cc6 \u0ca6\u0cc8\u0ca8\u0cbf\u0c95 \u0caa\u0ccd\u0cb0\u0cb5\u0cc7\u0cb6 \u0cae\u0cc2\u0cb2\u0ccd\u0caf\u0cae\u0cbe\u0caa\u0ca8 \u0c95\u0cbe\u0cb0\u0ccd\u0caf\u0c95\u0ccd\u0cb0\u0cae\u0c95\u0ccd\u0c95\u0cc6 \u0ca8\u0cbf\u0caf\u0ccb\u0c9c\u0cbf\u0ca4\u0cb0\u0cbe\u0c97\u0cc1\u0cb5\u0cc1\u0ca6\u0c95\u0ccd\u0c95\u0cc6, \u0ca8\u0cc0\u0cb5\u0cc1 \u0c92\u0c82\u0ca6\u0cc1 \u0c93\u0caa\u0ca8\u0ccd \u0cac\u0cc1\u0c95\u0ccd \u0caf\u0ccb\u0c97\u0ccd\u0caf\u0ca4\u0cc6 \u0caa\u0cb0\u0cc0\u0c95\u0ccd\u0cb7\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca4\u0cc6\u0c97\u0cc6\u0ca6\u0cc1\u0c95\u0cca\u0cb3\u0ccd\u0cb3\u0cc1\u0ca4\u0ccd\u0ca4\u0cc0\u0cb0\u0cbf \u0c85\u0ca6\u0cc1 \u0c86 \u0caa\u0cbe\u0ca4\u0ccd\u0cb0\u0ca6 \u0cb8\u0cbe\u0cae\u0cb0\u0ccd\u0ca5\u0ccd\u0caf \u0ca8\u0cbf\u0cb0\u0ccd\u0ca7\u0cb0\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c90\u0ca1\u0cbf \u0caa\u0cb0\u0cbf\u0cb6\u0cc0\u0cb2\u0ca8\u0cc6 \u0caa\u0cc2\u0cb0\u0ccd\u0ca3 \u0cae\u0cbe\u0ca1\u0cc1\u0ca4\u0ccd\u0ca4\u0cc0\u0cb0\u0cbf. \u0ca8\u0cae\u0ccd\u0cae \u0ca4\u0c82\u0ca1\u0cb5\u0cc1 \u0ca8\u0cbf\u0cae\u0ccd\u0cae \u0caf\u0ccb\u0c97\u0ccd\u0caf\u0ca4\u0cc6 \u0caa\u0cb0\u0cc0\u0c95\u0ccd\u0cb7\u0cc6\u0caf \u0cae\u0cca\u0ca6\u0cb2\u0cc1 \u0ca8\u0cbf\u0cae\u0c97\u0cc6 \u0cae\u0cbe\u0cb0\u0ccd\u0c97\u0ca8\u0cbf\u0cb0\u0ccd\u0ca6\u0cc7\u0cb6\u0ca8\u0c97\u0cb3\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c95\u0cb2\u0ca8\u0cc6 \u0cb8\u0cbe\u0cae\u0c97\u0ccd\u0cb0\u0cbf\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0c92\u0ca6\u0c97\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6. \u0ca8\u0cc0\u0cb5\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0ca6\u0cbf\u0cb7\u0ccd\u0c9f \u0cb8\u0cae\u0caf \u0cae\u0cbf\u0ca4\u0cbf\u0caf\u0cca\u0cb3\u0c97\u0cc6 \u0caa\u0cb0\u0cc0\u0c95\u0ccd\u0cb7\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0cc2\u0cb0\u0ccd\u0ca3 \u0cae\u0cbe\u0ca1\u0cac\u0cc7\u0c95\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1 \u0c86\u0ca6\u0cb0\u0cc6 \u0ca8\u0cbf\u0cae\u0ccd\u0cae \u0c85\u0ca8\u0cc1\u0c95\u0cc2\u0cb2\u0c95\u0ccd\u0c95\u0cc6. \u0c87\u0cb2\u0ccd\u0cb2\u0cbf \u0c85\u0ca8\u0ccd\u0cb5\u0caf\u0cbf\u0cb8\u0cbf: \u0cb8\u0cae\u0cbe\u0ca8 \u0c85\u0cb5\u0c95\u0cbe\u0cb6 \u0c9c\u0ca8\u0cbe\u0c82\u0c97, \u0cac\u0ca3\u0ccd\u0ca3, \u0ca7\u0cb0\u0ccd\u0cae, \u0cb2\u0cbf\u0c82\u0c97, \u0cb2\u0cc8\u0c82\u0c97\u0cbf\u0c95 \u0ca6\u0cc3\u0cb7\u0ccd\u0c9f\u0cbf\u0c95\u0ccb\u0ca8, \u0cb2\u0cbf\u0c82\u0c97 \u0c97\u0cc1\u0cb0\u0cc1\u0ca4\u0cbf\u0cb8\u0cc1\u0cb5\u0cbf\u0c95\u0cc6, \u0cb0\u0cbe\u0cb7\u0ccd\u0c9f\u0ccd\u0cb0\u0cc0\u0caf \u0cae\u0cc2\u0cb2, \u0c85\u0c82\u0c97\u0cb5\u0cc8\u0c95\u0cb2\u0ccd\u0caf \u0c85\u0ca5\u0cb5\u0cbe \u0cb8\u0c82\u0cb0\u0c95\u0ccd\u0cb7\u0cbf\u0ca4 \u0c85\u0ca8\u0cc1\u0cad\u0cb5\u0cbf \u0cb8\u0ccd\u0ca5\u0cbe\u0ca8\u0cae\u0cbe\u0ca8\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0cb0\u0cbf\u0c97\u0ca3\u0cbf\u0cb8\u0ca6\u0cc6 \u0c8e\u0cb2\u0ccd\u0cb2\u0cbe \u0c85\u0cb0\u0ccd\u0cb9 \u0c85\u0cb0\u0ccd\u0c9c\u0cbf\u0ca6\u0cbe\u0cb0\u0cb0\u0cc1 \u0c92\u0caa\u0ccd\u0caa\u0c82\u0ca6\u0ca6 \u0cb8\u0c82\u0cac\u0c82\u0ca7\u0c95\u0ccd\u0c95\u0cbe\u0c97\u0cbf \u0caa\u0cb0\u0cbf\u0c97\u0ca3\u0ca8\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0ca1\u0cc6\u0caf\u0cc1\u0ca4\u0ccd\u0ca4\u0cbe\u0cb0\u0cc6. TELUS \u0ca1\u0cbf\u0c9c\u0cbf\u0c9f\u0cb2\u0ccd AI \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf, \u0ca8\u0cbe\u0cb5\u0cc1 \u0cb8\u0cae\u0cbe\u0ca8 \u0c85\u0cb5\u0c95\u0cbe\u0cb6\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cc0\u0ca1\u0cb2\u0cc1 \u0cb9\u0cc6\u0cae\u0ccd\u0cae\u0cc6\u0caa\u0ca1\u0cc1\u0ca4\u0ccd\u0ca4\u0cc7\u0cb5\u0cc6 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0cb5\u0cc8\u0cb5\u0cbf\u0ca7\u0ccd\u0caf\u0cae\u0caf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c85\u0c82\u0ca4\u0cb0\u0ccd\u0c97\u0ca4 \u0cb8\u0cae\u0cc1\u0ca6\u0cbe\u0caf\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb0\u0c9a\u0cbf\u0cb8\u0cb2\u0cc1 \u0cac\u0ca6\u0ccd\u0ca7\u0cb0\u0cbe\u0c97\u0cbf\u0ca6\u0ccd\u0ca6\u0cc7\u0cb5\u0cc6. \u0c86\u0caf\u0ccd\u0c95\u0cc6\u0caf \u0c8e\u0cb2\u0ccd\u0cb2\u0cbe \u0c85\u0c82\u0cb6\u0c97\u0cb3\u0cc1 \u0cb5\u0cc8\u0cb5\u0cbf\u0ca7\u0ccd\u0caf\u0ca4\u0cc6\u0c97\u0cc6 \u0cb8\u0c82\u0cac\u0c82\u0ca7\u0cbf\u0cb8\u0cbf\u0ca6 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0c97\u0cc1\u0ca3\u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0caa\u0cb0\u0cbf\u0c97\u0ca3\u0cbf\u0cb8\u0ca6\u0cc6 \u0c85\u0cb0\u0ccd\u0c9c\u0cbf\u0ca6\u0cbe\u0cb0\u0cb0 \u0c85\u0cb0\u0ccd\u0cb9\u0ca4\u0cc6\u0c97\u0cb3\u0cc1, \u0c85\u0cb0\u0ccd\u0cb9\u0ca4\u0cc6\u0c97\u0cb3\u0cc1, \u0cb8\u0cbe\u0cae\u0cb0\u0ccd\u0ca5\u0ccd\u0caf \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c95\u0cbe\u0cb0\u0ccd\u0caf\u0c95\u0ccd\u0cb7\u0cae\u0ca4\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0c86\u0ca7\u0cb0\u0cbf\u0cb8\u0cbf\u0cb5\u0cc6. Originally posted on Himalayas",
-      "score": 37,
-      "keywords": [
-        "data analyst"
-      ],
-      "is_remote": true,
-      "id": 367,
+      "id": 359,
       "status": "nouveau"
     },
     {
@@ -9083,7 +8896,76 @@
         "data analyst"
       ],
       "is_remote": true,
-      "id": 368,
+      "id": 360,
+      "status": "nouveau"
+    },
+    {
+      "title": "Photonics Co-Founder / Head of Sales (100 % remote) (m/f/d)",
+      "organization": "EWOR GmbH",
+      "source": "Himalayas",
+      "location": "Worldwide",
+      "remote_type": "remote",
+      "opportunity_type": "Full Time",
+      "track": "consultance",
+      "domain": "communication",
+      "deadline": "2026-10-02T08:44:42+00:00",
+      "posted_at": "2026-08-03T08:44:42+00:00",
+      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/photonics-co-founder-head-of-sales-100-remote-m-f-d",
+      "summary": "We are looking to hire ambitious entrepreneurs to start and scale their own startups.",
+      "description": "We are looking to hire ambitious entrepreneurs to start and scale their own startups. We are serial entrepreneurs, for example Paul M\u00fcller (founder Adjust, \u20ac1.2B exit) and Petter Made (founder SumUp, \u20ac8B) who are eager to support outlier personalities and serial entrepreneurs to build \u20ac1B+ companies. Our offer: A salary while you build your startup as you will directly be employed by us. Alternatively, you can opt for up to \u20ac500k in funding. 1:1 sparring with unicorn founders on a weekly basis Community : Access to the top 0.1% of founders, peers and investors Team building : Hiring top notch talent supported through our network (over 50,000 professionals) Distribution : Support in reaching product-market-fit and building up a sales force / marketing machine Funding support for securing a multi-million euro funding round within 12 months (on average, EWOR Fellows raise > \u20ac2M after our Grand Pitch) One of our fellows set a record for Europe\u2019s largest pre-seed round by a first-time founder, securing a \u20ac12M pre-seed investment. Tasks You will own, build, and run your startup in fields such as Photonics You will embark on an extensive personal development journey crafted by unicorn founders and follow a fully customised programme enhancing your goal, time, and energy management You will receive support in hiring through our network to over 50,000 professionals and advice as well as best practices from serial entrepreneurs You will receive intensive coaching to make your startup ready to raise millions in funding You will iterate your product with us until having reached product-market-fit and receive support in building up a sales force or creating a marketing engine respectively Requirements You are based in Europe or the Americas or open to relocate You are willing to take full responsibility for your own startup and scale it to \u20ac100M+ in revenues You have excellent communication skills in the English language Highlights Join us and build a \u20ac1B+ company with us! Originally posted on Himalayas",
+      "score": 37,
+      "keywords": [
+        "communication",
+        "consultance"
+      ],
+      "is_remote": true,
+      "id": 361,
+      "status": "nouveau"
+    },
+    {
+      "title": "Experienced .NET Developer",
+      "organization": "SKM Group",
+      "source": "Himalayas",
+      "location": "Worldwide",
+      "remote_type": "hybrid-remote",
+      "opportunity_type": "Contractor",
+      "track": "consultance",
+      "domain": "suivi-evaluation-etudes",
+      "deadline": "2026-10-02T08:44:37+00:00",
+      "posted_at": "2026-08-03T08:44:38+00:00",
+      "url": "https://himalayas.app/companies/skm-group/jobs/experienced-net-developer",
+      "summary": "We are a software house with a 18-year history, a rich portfolio, projects all over the world and an appetite for more.",
+      "description": "We are a software house with a 18-year history, a rich portfolio, projects all over the world and an appetite for more. We have built our brand on professionalism and flexibility in delivering software solutions. We are not afraid of unconventional ideas and value innovation and imaginative change. Requirements As a Experienced .NET Developer you will: Have a real impact on the software you will be working on Use your experience in creating applications, taking care of their practicality and efficiency Be a partner for the Project Manager and for the client, collecting project requirements, determining solutions and ensuring their timely implementation Develop your coaching and mentoring skills by sharing your experience and knowledge with other people in the company What do you need to join us? At least four years of professional experience as a .NET developer Very good knowledge of Entity Framework Experience in ASP.NET MVC / ASP.NET Core MVC Independent and solution-oriented way of working Good communication skills and good English language skills Be a team player What do we offer you? Attractive salary Large freedom and real influence No unhealthy competition, team approach to meeting challenges Work with experienced developers Remote or hybrid work model Company apartments in cool cities across Europe: work and enjoy a memorable getaway We rely on people who want to create something new and improve our client's solutions. If you value a good atmosphere and the spirit of cooperation, you will fit in here. Originally posted on Himalayas",
+      "score": 37,
+      "keywords": [
+        "consultance",
+        "suivi-evaluation-etudes"
+      ],
+      "is_remote": true,
+      "id": 362,
+      "status": "nouveau"
+    },
+    {
+      "title": "Space Tech Co-Founder / CSO (100 % remote) (m/f/d)",
+      "organization": "EWOR GmbH",
+      "source": "Himalayas",
+      "location": "Worldwide",
+      "remote_type": "remote",
+      "opportunity_type": "Full Time",
+      "track": "consultance",
+      "domain": "communication",
+      "deadline": "2026-10-02T08:25:03+00:00",
+      "posted_at": "2026-08-03T08:25:03+00:00",
+      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/space-tech-co-founder-cso-100-remote-m-f-d-786656336",
+      "summary": "We are looking to hire ambitious entrepreneurs to start and scale their own startups.",
+      "description": "We are looking to hire ambitious entrepreneurs to start and scale their own startups. We are serial entrepreneurs, for example Paul M\u00fcller (founder Adjust, \u20ac1.2B exit) and Petter Made (founder SumUp, \u20ac8B) who are eager to support outlier personalities and serial entrepreneurs to build \u20ac1B+ companies. Our offer: A salary while you build your startup as you will directly be employed by us. Alternatively, you can opt for up to \u20ac500k in funding. 1:1 sparring with unicorn founders on a weekly basis Community : Access to the top 0.1% of founders, peers and investors Team building : Hiring top notch talent supported through our network (over 50,000 professionals) Distribution : Support in reaching product-market-fit and building up a sales force / marketing machine Funding support for securing a multi-million euro funding round within 12 months (on average, EWOR Fellows raise > \u20ac2M after our Grand Pitch) One of our fellows set a record for Europe\u2019s largest pre-seed round by a first-time founder, securing a \u20ac12M pre-seed investment. Tasks You will own, build, and run your startup in fields such as Space Tech You will embark on an extensive personal development journey crafted by unicorn founders and follow a fully customised programme enhancing your goal, time, and energy management You will receive support in hiring through our network to over 50,000 professionals and advice as well as best practices from serial entrepreneurs You will receive intensive coaching to make your startup ready to raise millions in funding You will iterate your product with us until having reached product-market-fit and receive support in building up a sales force or creating a marketing engine respectively Requirements You are based in Europe or the Americas or open to relocate You are willing to take full responsibility for your own startup and scale it to \u20ac100M+ in revenues You have excellent communication skills in the English language Highlights Join us and build a \u20ac1B+ company with us! Originally posted on Himalayas",
+      "score": 37,
+      "keywords": [
+        "communication",
+        "consultance"
+      ],
+      "is_remote": true,
+      "id": 363,
       "status": "nouveau"
     },
     {
@@ -9106,7 +8988,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 369,
+      "id": 364,
       "status": "nouveau"
     },
     {
@@ -9129,7 +9011,7 @@
         "consultance"
       ],
       "is_remote": true,
-      "id": 370,
+      "id": 365,
       "status": "nouveau"
     },
     {
@@ -9152,7 +9034,7 @@
         "consultance"
       ],
       "is_remote": true,
-      "id": 371,
+      "id": 366,
       "status": "nouveau"
     },
     {
@@ -9175,7 +9057,7 @@
         "consultance"
       ],
       "is_remote": true,
-      "id": 372,
+      "id": 367,
       "status": "nouveau"
     },
     {
@@ -9198,7 +9080,7 @@
         "consultance"
       ],
       "is_remote": true,
-      "id": 373,
+      "id": 368,
       "status": "nouveau"
     },
     {
@@ -9221,7 +9103,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 374,
+      "id": 369,
       "status": "nouveau"
     },
     {
@@ -9244,7 +9126,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 375,
+      "id": 370,
       "status": "nouveau"
     },
     {
@@ -9267,7 +9149,7 @@
         "developpement-app"
       ],
       "is_remote": true,
-      "id": 376,
+      "id": 371,
       "status": "nouveau"
     },
     {
@@ -9290,7 +9172,30 @@
         "consultance"
       ],
       "is_remote": true,
-      "id": 377,
+      "id": 372,
+      "status": "nouveau"
+    },
+    {
+      "title": "Junior Administrative Assistant (Remote) - LATAM at Valatam",
+      "organization": "",
+      "source": "JobsCollider",
+      "location": "Remote",
+      "remote_type": "remote",
+      "opportunity_type": "job",
+      "track": "consultance",
+      "domain": "suivi-evaluation-etudes",
+      "deadline": null,
+      "posted_at": "Mon, 03 Aug 2026 01:39:06 +0000",
+      "url": "https://remotefirstjobs.com/companies/valatam/jobs/junior-administrative-assistant-remote-latam-843046",
+      "summary": "About Valatam We\u2019re Valatam, a team that connects bilingual professionals from Latin America with global clients. Our people are our pride, and we\u2019re thrilled to be certified as a Great Place to Work for the 2025-2026 period, proof that great work starts with great people. About the Role This 100% remote Junior Administrative Assistant role is ide",
+      "description": "About Valatam We\u2019re Valatam, a team that connects bilingual professionals from Latin America with global clients. Our people are our pride, and we\u2019re thrilled to be certified as a Great Place to Work for the 2025-2026 period, proof that great work starts with great people. About the Role This 100% remote Junior Administrative Assistant role is ideal for organized, detail-oriented bilingual professionals supporting clients from Latin America. Key Responsibilities Assist in updating process documentation and maintaining accurate, organized records. Handle file uploads and maintain Google Drive organization according to established team guidelines. Execute routine data entry and support the preparation of basic internal reports. Monitor general email inboxes and coordinate routine correspondence with clients and vendors. Conduct basic research and assist with general document handling and preparation. Provide general administrative support to the team as needed. Fluent English (C1/C2) and Spanish. 1 \u2013 2 years of experience in administration or virtual assistance. Familiarity and comfort with Google Workspace or Microsoft Office. Good communication and problem-solving skills. Quiet home office, stable internet (\u2265 10 Mbps down / 2 Mbps up), and backup connection. Bachelor\u2019s or Associate\u2019s degree preferred. Our Core Values at Work We live by ACTION (get things done), CARE (help others and do things right), OUTSTANDING (operate at the highest standards), DEPENDABLE (own every commitment), and ENERGY (bring positivity every day). You\u2019ll thrive here if these values resonate with you. What We Offer Hourly rate equivalent to USD $696 \u2013 $1,044/month (based on experience and alignment with the role requirements). Annual pay increments. Discretionary client bonuses (80 % of clients award year-end bonuses). 7 U.S. federal holidays + 4 paid PTO days. Monthly medical insurance stipend (after meeting eligibility criteria). Birthday / Anniversary bonuses + Gym / Wellness allowance. Unlimited online fitness classes + company events & Christmas celebrations. IMPORTANT We would like to inform you that during the first four months of employment, it is critical that candidates are available to work from the countries listed above and without any travel commitments. This is to ensure a smooth onboarding process and to allow new hires to fully focus on their roles and responsibilities. If you have a trip already planned within the next four months, we kindly request that you apply for our positions after returning from your trip. We appreciate your understanding and look forward to considering your application once you are available to commit to the role.",
+      "score": 37,
+      "keywords": [
+        "consultance",
+        "suivi-evaluation-etudes"
+      ],
+      "is_remote": true,
+      "id": 373,
       "status": "nouveau"
     },
     {
@@ -9313,7 +9218,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 378,
+      "id": 374,
       "status": "nouveau"
     },
     {
@@ -9336,7 +9241,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 379,
+      "id": 375,
       "status": "nouveau"
     },
     {
@@ -9359,7 +9264,7 @@
         "consultance"
       ],
       "is_remote": true,
-      "id": 380,
+      "id": 376,
       "status": "nouveau"
     },
     {
@@ -9382,7 +9287,7 @@
         "suivi-evaluation-etudes"
       ],
       "is_remote": true,
-      "id": 381,
+      "id": 377,
       "status": "nouveau"
     },
     {
@@ -9404,7 +9309,7 @@
         "data scientist"
       ],
       "is_remote": true,
-      "id": 382,
+      "id": 378,
       "status": "nouveau"
     }
   ],
@@ -9537,11 +9442,11 @@
   "scans": [
     {
       "id": 1,
-      "started_at": "2026-08-03T01:59:20+00:00",
-      "finished_at": "2026-08-03T01:59:20+00:00",
+      "started_at": "2026-08-03T08:49:45+00:00",
+      "finished_at": "2026-08-03T08:49:45+00:00",
       "source_count": 8,
-      "found_count": 382,
-      "saved_count": 382,
+      "found_count": 378,
+      "saved_count": 378,
       "errors": []
     }
   ]
